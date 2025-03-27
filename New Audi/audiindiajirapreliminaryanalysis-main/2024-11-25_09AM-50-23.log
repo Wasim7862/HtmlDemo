@@ -1,0 +1,17 @@
+2024-11-25 09:50:23,607 - Main - INFO - Start
+2024-11-25 09:50:26,411 - APIFunctions - INFO - VIN not present in ticket description
+2024-11-25 09:50:26,411 - APIFunctions - INFO - Jira tickets list:
+2024-11-25 09:50:26,412 - APIFunctions - INFO - {'key': 'AUDIIND-671', 'imei': ['355105400910970'], 'vin': 'NA'}
+2024-11-25 09:50:26,412 - APIFunctions - INFO - {'key': 'AUDIIND-670', 'imei': ['355105400956866'], 'vin': 'WAUZJPF30RY700109'}
+2024-11-25 09:50:26,412 - APIFunctions - INFO - {'key': 'AUDIIND-669', 'imei': ['355105401851157'], 'vin': 'WAUZERF47RY700827'}
+2024-11-25 09:50:26,414 - Main - INFO - 3 tickets to process
+2024-11-25 09:50:28,053 - APIFunctions - INFO - Cerence Token generated.
+2024-11-25 09:50:28,056 - APIFunctions - INFO - {'key': 'AUDIIND-671', 'imei': ['355105400910970'], 'vin': 'NA'}
+2024-11-25 09:50:28,056 - APIFunctions - INFO - 355105400910970
+2024-11-25 09:50:30,195 - APIFunctions - INFO - Last seen received for 355105400910970
+2024-11-25 09:50:31,176 - APIFunctions - INFO - Device status received for 355105400910970
+2024-11-25 09:50:32,403 - APIFunctions - INFO - User details received for 355105400910970
+2024-11-25 09:50:32,405 - APIFunctions - INFO - {'key': 'AUDIIND-670', 'imei': ['355105400956866'], 'vin': 'WAUZJPF30RY700109'}
+2024-11-25 09:50:32,405 - APIFunctions - INFO - 355105400956866
+2024-11-25 09:50:34,422 - APIFunctions - INFO - Last seen received for 355105400956866
+2024-11-25 09:50:35,415 - APIFunctions - INFO - Device status received for 355105400956866

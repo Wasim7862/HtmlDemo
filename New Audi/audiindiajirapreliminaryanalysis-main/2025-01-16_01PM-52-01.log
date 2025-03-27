@@ -1,0 +1,23 @@
+2025-01-16 13:52:01,891 - Main - INFO - Start
+2025-01-16 13:52:03,125 - APIFunctions - INFO - Jira tickets list:
+2025-01-16 13:52:03,125 - APIFunctions - INFO - {'key': 'AUDIIND-760', 'imei': ['355105401636798'], 'vin': 'WAUZHRFY2RY700650'}
+2025-01-16 13:52:03,125 - APIFunctions - INFO - {'key': 'AUDIIND-759', 'imei': ['355105400965727'], 'vin': 'WAUZAJ8V3JY700203'}
+2025-01-16 13:52:03,125 - Main - INFO - 2 tickets to process
+2025-01-16 13:52:03,897 - APIFunctions - INFO - Cerence Token generated.
+2025-01-16 13:52:03,897 - APIFunctions - INFO - {'key': 'AUDIIND-760', 'imei': ['355105401636798'], 'vin': 'WAUZHRFY2RY700650'}
+2025-01-16 13:52:03,913 - APIFunctions - INFO - 355105401636798
+2025-01-16 13:52:04,198 - APIFunctions - INFO - {'key': 'AUDIIND-759', 'imei': ['355105400965727'], 'vin': 'WAUZAJ8V3JY700203'}
+2025-01-16 13:52:04,198 - APIFunctions - INFO - 355105400965727
+2025-01-16 13:52:04,703 - APIFunctions - INFO - Last seen received for 355105400965727
+2025-01-16 13:52:05,113 - APIFunctions - INFO - Device status received for 355105400965727
+2025-01-16 13:52:05,443 - APIFunctions - INFO - User details received for 355105400965727
+2025-01-16 13:52:05,446 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-760 are below
+2025-01-16 13:52:05,447 - APIFunctions - INFO - {'imei': '355105401636798', 'state': 'ACTIVATED', 'iccid': '8991900991378955432F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Rajkot', 'dealerCode': '30411', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-760'}
+2025-01-16 13:52:06,520 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-760.
+2025-01-16 13:52:06,524 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-759 are below
+2025-01-16 13:52:06,524 - APIFunctions - INFO - {'imei': '355105400965727', 'state': 'USER_MAPPED', 'iccid': '8991900991298733935F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZAJ8V3JY700203', 'carId': '125fa0d6-8b6d-4966-bf9c-4ebde89e71b8', 'dealerName': 'Audi Mumbai West', 'dealerCode': '31102', 'lastSeen': datetime.datetime(2025, 1, 16, 11, 39, 50, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Adil', 'email': 'adil@afladha.com', 'phone': '+919769711455', 'jiraTicket': 'AUDIIND-759'}
+2025-01-16 13:52:08,488 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-759.
+2025-01-16 13:52:09,623 - APIFunctions - INFO - Ticket status changes for AUDIIND-760.
+2025-01-16 13:52:10,864 - APIFunctions - INFO - Ticket status changes for AUDIIND-759.
+2025-01-16 13:52:11,863 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-760.
+2025-01-16 13:52:12,750 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-759.

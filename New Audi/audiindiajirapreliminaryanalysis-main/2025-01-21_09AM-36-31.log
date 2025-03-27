@@ -1,0 +1,12 @@
+2025-01-21 09:36:31,754 - Main - INFO - Start
+2025-01-21 09:36:33,693 - APIFunctions - INFO - Jira tickets list:
+2025-01-21 09:36:33,694 - APIFunctions - INFO - {'key': 'AUDIIND-763', 'imei': ['355105401636798'], 'vin': 'WAUZHRFY2RY700650'}
+2025-01-21 09:36:33,697 - Main - INFO - 1 tickets to process
+2025-01-21 09:36:34,609 - APIFunctions - INFO - Cerence Token generated.
+2025-01-21 09:36:34,610 - APIFunctions - INFO - {'key': 'AUDIIND-763', 'imei': ['355105401636798'], 'vin': 'WAUZHRFY2RY700650'}
+2025-01-21 09:36:34,610 - APIFunctions - INFO - 355105401636798
+2025-01-21 09:36:34,763 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-763 are below
+2025-01-21 09:36:34,774 - APIFunctions - INFO - {'imei': '355105401636798', 'state': 'ACTIVATED', 'iccid': '8991900991378955432F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Rajkot', 'dealerCode': '30411', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-763'}
+2025-01-21 09:36:35,947 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-763.
+2025-01-21 09:36:37,062 - APIFunctions - INFO - Ticket status changes for AUDIIND-763.
+2025-01-21 09:36:37,957 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-763.

@@ -1,0 +1,5 @@
+2025-01-16 13:50:37,117 - Main - INFO - Start
+2025-01-16 13:50:38,566 - APIFunctions - INFO - Jira tickets list:
+2025-01-16 13:50:38,566 - APIFunctions - INFO - {'key': 'AUDIIND-760', 'imei': ['355105401636798'], 'vin': 'WAUZHRFY2RY700650'}
+2025-01-16 13:50:38,566 - APIFunctions - INFO - {'key': 'AUDIIND-759', 'imei': ['355105400965727'], 'vin': 'WAUZAJ8V3JY700203'}
+2025-01-16 13:50:38,566 - Main - INFO - 2 tickets to process

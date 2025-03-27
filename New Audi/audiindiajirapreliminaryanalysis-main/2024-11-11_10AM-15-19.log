@@ -1,0 +1,51 @@
+2024-11-11 10:15:19,710 - Main - INFO - Start
+2024-11-11 10:15:21,603 - APIFunctions - INFO - VIN not present in ticket description
+2024-11-11 10:15:21,604 - APIFunctions - INFO - VIN not present in ticket description
+2024-11-11 10:15:21,604 - APIFunctions - INFO - VIN not present in ticket description
+2024-11-11 10:15:21,604 - APIFunctions - INFO - Jira tickets list:
+2024-11-11 10:15:21,604 - APIFunctions - INFO - {'key': 'AUDIIND-652', 'imei': ['355105401626229'], 'vin': 'WAUZBR4M4PY001082'}
+2024-11-11 10:15:21,604 - APIFunctions - INFO - {'key': 'AUDIIND-651', 'imei': ['355105401594393'], 'vin': 'NA'}
+2024-11-11 10:15:21,605 - APIFunctions - INFO - {'key': 'AUDIIND-650', 'imei': ['355105401627227'], 'vin': 'NA'}
+2024-11-11 10:15:21,605 - APIFunctions - INFO - {'key': 'AUDIIND-649', 'imei': ['355105401604788'], 'vin': 'NA'}
+2024-11-11 10:15:21,608 - Main - INFO - 4 tickets to process
+2024-11-11 10:15:22,866 - APIFunctions - INFO - Cerence Token generated.
+2024-11-11 10:15:22,869 - APIFunctions - INFO - {'key': 'AUDIIND-652', 'imei': ['355105401626229'], 'vin': 'WAUZBR4M4PY001082'}
+2024-11-11 10:15:22,869 - APIFunctions - INFO - 355105401626229
+2024-11-11 10:15:24,738 - APIFunctions - INFO - Last seen received for 355105401626229
+2024-11-11 10:15:25,704 - APIFunctions - INFO - Device status received for 355105401626229
+2024-11-11 10:15:26,657 - APIFunctions - INFO - User details received for 355105401626229
+2024-11-11 10:15:26,659 - APIFunctions - INFO - {'key': 'AUDIIND-651', 'imei': ['355105401594393'], 'vin': 'NA'}
+2024-11-11 10:15:26,660 - APIFunctions - INFO - 355105401594393
+2024-11-11 10:15:28,385 - APIFunctions - INFO - Last seen received for 355105401594393
+2024-11-11 10:15:29,284 - APIFunctions - INFO - Device status received for 355105401594393
+2024-11-11 10:15:30,229 - APIFunctions - INFO - User details received for 355105401594393
+2024-11-11 10:15:30,231 - APIFunctions - INFO - {'key': 'AUDIIND-650', 'imei': ['355105401627227'], 'vin': 'NA'}
+2024-11-11 10:15:30,231 - APIFunctions - INFO - 355105401627227
+2024-11-11 10:15:32,144 - APIFunctions - INFO - Last seen received for 355105401627227
+2024-11-11 10:15:33,303 - APIFunctions - INFO - Device status received for 355105401627227
+2024-11-11 10:15:34,237 - APIFunctions - INFO - User details received for 355105401627227
+2024-11-11 10:15:34,239 - APIFunctions - INFO - {'key': 'AUDIIND-649', 'imei': ['355105401604788'], 'vin': 'NA'}
+2024-11-11 10:15:34,240 - APIFunctions - INFO - 355105401604788
+2024-11-11 10:15:35,956 - APIFunctions - INFO - Last seen received for 355105401604788
+2024-11-11 10:15:36,850 - APIFunctions - INFO - Device status received for 355105401604788
+2024-11-11 10:15:37,790 - APIFunctions - INFO - User details received for 355105401604788
+2024-11-11 10:15:37,792 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-652 are below
+2024-11-11 10:15:37,792 - APIFunctions - INFO - {'imei': '355105401626229', 'state': 'USER_MAPPED', 'iccid': '8991900992443847257F', 'deviceType': 'ICE', 'firmware': '1.0.0.7', 'vin': 'WAUZBR4M4PY001082', 'carId': 'a1896a1b-a9d0-49d8-87ee-0a3b307ccc37', 'dealerName': 'Audi Service Delhi South', 'dealerCode': '30308', 'lastSeen': datetime.datetime(2024, 11, 11, 7, 21, 20, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Ashok', 'email': 'rakhigola67@gmail.com', 'phone': '+919811040784', 'jiraTicket': 'AUDIIND-652'}
+2024-11-11 10:15:39,485 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-652.
+2024-11-11 10:15:39,487 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-651 are below
+2024-11-11 10:15:39,487 - APIFunctions - INFO - {'imei': '355105401594393', 'state': 'USER_MAPPED', 'iccid': '8991900992443871935F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZGPFY2PY700913', 'carId': '5802ad44-f9e6-4349-b98c-331144d65695', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': datetime.datetime(2024, 11, 11, 7, 59, 1, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Barrington', 'email': 'barrington@audimadurai.in', 'phone': '+918925823660', 'jiraTicket': 'AUDIIND-651'}
+2024-11-11 10:15:40,547 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-651.
+2024-11-11 10:15:40,549 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-650 are below
+2024-11-11 10:15:40,549 - APIFunctions - INFO - {'imei': '355105401627227', 'state': 'USER_MAPPED', 'iccid': '8991900992443844262F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZGRF4XRY701089', 'carId': '31131bb5-641c-4381-8945-ac3ff7a9e3c0', 'dealerName': 'Audi Mumbai West', 'dealerCode': '31102', 'lastSeen': datetime.datetime(2024, 11, 11, 6, 37, 22, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Reena', 'email': 'steresa.0323@gmail.com', 'phone': '+919324839431', 'jiraTicket': 'AUDIIND-650'}
+2024-11-11 10:15:41,430 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-650.
+2024-11-11 10:15:41,433 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-649 are below
+2024-11-11 10:15:41,433 - APIFunctions - INFO - {'imei': '355105401604788', 'state': 'USER_MAPPED', 'iccid': '8991900992443887410F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZGPF17PD039860', 'carId': '143e3509-db65-4bf2-8d4c-b1083da150e6', 'dealerName': 'Audi Coimbatore', 'dealerCode': '30305', 'lastSeen': datetime.datetime(2024, 11, 11, 6, 56, 44, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Anand', 'email': 'anand.05smart@gmail.com', 'phone': '+919843655566', 'jiraTicket': 'AUDIIND-649'}
+2024-11-11 10:15:42,495 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-649.
+2024-11-11 10:15:43,568 - APIFunctions - INFO - Ticket status changes for AUDIIND-652.
+2024-11-11 10:15:44,835 - APIFunctions - INFO - Ticket status changes for AUDIIND-651.
+2024-11-11 10:15:45,786 - APIFunctions - INFO - Ticket status changes for AUDIIND-650.
+2024-11-11 10:15:46,817 - APIFunctions - INFO - Ticket status changes for AUDIIND-649.
+2024-11-11 10:15:47,837 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-652.
+2024-11-11 10:15:48,790 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-651.
+2024-11-11 10:15:49,579 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-650.
+2024-11-11 10:15:50,561 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-649.

@@ -1,0 +1,13 @@
+2024-12-31 16:41:46,502 - Main - INFO - Start
+2024-12-31 16:41:47,873 - APIFunctions - INFO - VIN not present in ticket description
+2024-12-31 16:41:47,873 - APIFunctions - INFO - Jira tickets list:
+2024-12-31 16:41:47,874 - APIFunctions - INFO - {'key': 'AUDIIND-739', 'imei': ['355105401608961'], 'vin': 'NA'}
+2024-12-31 16:41:47,876 - Main - INFO - 1 tickets to process
+2024-12-31 16:41:48,466 - APIFunctions - INFO - Cerence Token generated.
+2024-12-31 16:41:48,469 - APIFunctions - INFO - {'key': 'AUDIIND-739', 'imei': ['355105401608961'], 'vin': 'NA'}
+2024-12-31 16:41:48,469 - APIFunctions - INFO - 355105401608961
+2024-12-31 16:41:48,602 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-739 are below
+2024-12-31 16:41:48,602 - APIFunctions - INFO - {'imei': '355105401608961', 'state': 'VIN_MAPPED', 'iccid': '8991900992443881835F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZJRF48SY700062', 'carId': 'cad51d58-53bf-4abc-af7d-666bfa35591a', 'dealerName': 'Audi Ludhiana', 'dealerCode': '30006', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-739'}
+2024-12-31 16:41:49,577 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-739.
+2024-12-31 16:41:51,458 - APIFunctions - INFO - Ticket status changes for AUDIIND-739.
+2024-12-31 16:41:52,661 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-739.

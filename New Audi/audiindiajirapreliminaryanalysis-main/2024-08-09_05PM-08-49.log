@@ -1,0 +1,132 @@
+2024-08-09 17:08:49,249 - Main - INFO - Start
+2024-08-09 17:08:50,690 - APIFunctions - INFO - VIN not present in ticket description
+2024-08-09 17:08:50,690 - APIFunctions - INFO - Jira tickets list:
+2024-08-09 17:08:50,690 - APIFunctions - INFO - {'key': 'AUDIIND-521', 'imei': ['355105401641996', '355105401610058', '355105401640527', '355105401612104', '355105401624752', '355105401600786', '355105401629751', '355105401625403', '355105401641434', '355105401587256', '355105401842099', '355105401857121', '355105401845712', '355105401849912', '355105401846850', '355105401846082', '355105401839327', '355105401868037'], 'vin': 'NA'}
+2024-08-09 17:08:50,693 - Main - INFO - 1 tickets to process
+2024-08-09 17:08:51,851 - APIFunctions - INFO - Cerence Token generated.
+2024-08-09 17:08:51,853 - APIFunctions - INFO - {'key': 'AUDIIND-521', 'imei': ['355105401641996', '355105401610058', '355105401640527', '355105401612104', '355105401624752', '355105401600786', '355105401629751', '355105401625403', '355105401641434', '355105401587256', '355105401842099', '355105401857121', '355105401845712', '355105401849912', '355105401846850', '355105401846082', '355105401839327', '355105401868037'], 'vin': 'NA'}
+2024-08-09 17:08:51,853 - APIFunctions - INFO - 355105401641996
+2024-08-09 17:08:52,774 - APIFunctions - INFO - 355105401610058
+2024-08-09 17:08:54,387 - APIFunctions - INFO - 355105401640527
+2024-08-09 17:08:58,352 - APIFunctions - INFO - 355105401612104
+2024-08-09 17:09:05,744 - APIFunctions - INFO - 355105401624752
+2024-08-09 17:09:07,252 - APIFunctions - INFO - 355105401600786
+2024-08-09 17:09:08,435 - APIFunctions - INFO - 355105401629751
+2024-08-09 17:09:09,369 - APIFunctions - INFO - 355105401625403
+2024-08-09 17:09:10,252 - APIFunctions - INFO - 355105401641434
+2024-08-09 17:09:11,349 - APIFunctions - INFO - 355105401587256
+2024-08-09 17:09:12,341 - APIFunctions - INFO - 355105401842099
+2024-08-09 17:09:13,286 - APIFunctions - INFO - 355105401857121
+2024-08-09 17:09:14,259 - APIFunctions - INFO - 355105401845712
+2024-08-09 17:09:15,185 - APIFunctions - INFO - 355105401849912
+2024-08-09 17:09:16,132 - APIFunctions - INFO - 355105401846850
+2024-08-09 17:09:17,093 - APIFunctions - INFO - 355105401846082
+2024-08-09 17:09:18,138 - APIFunctions - INFO - 355105401839327
+2024-08-09 17:09:19,093 - APIFunctions - INFO - 355105401868037
+2024-08-09 17:09:20,050 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:20,050 - APIFunctions - INFO - {'imei': '355105401641996', 'state': 'ACTIVATED', 'iccid': '8991900992443929576F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:22,257 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:22,262 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:22,262 - APIFunctions - INFO - {'imei': '355105401610058', 'state': 'ACTIVATED', 'iccid': '8991900992443886255F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:23,978 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:23,980 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:23,981 - APIFunctions - INFO - {'imei': '355105401640527', 'state': 'ACTIVATED', 'iccid': '8991900991378953619F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:25,332 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:25,333 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:25,334 - APIFunctions - INFO - {'imei': '355105401612104', 'state': 'ACTIVATED', 'iccid': '8991900992443878971F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:26,459 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:26,461 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:26,461 - APIFunctions - INFO - {'imei': '355105401624752', 'state': 'ACTIVATED', 'iccid': '8991900991378971629F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:27,568 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:27,570 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:27,570 - APIFunctions - INFO - {'imei': '355105401600786', 'state': 'ACTIVATED', 'iccid': '8991900991378961513F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:29,224 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:29,224 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:29,224 - APIFunctions - INFO - {'imei': '355105401629751', 'state': 'ACTIVATED', 'iccid': '8991900992443871349F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:31,099 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:31,099 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:31,099 - APIFunctions - INFO - {'imei': '355105401625403', 'state': 'ACTIVATED', 'iccid': '8991900992443921631F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:32,966 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:32,966 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:32,966 - APIFunctions - INFO - {'imei': '355105401641434', 'state': 'ACTIVATED', 'iccid': '8991900992443877064F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:34,122 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:34,130 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:34,130 - APIFunctions - INFO - {'imei': '355105401587256', 'state': 'ACTIVATED', 'iccid': '8991900991378963568F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:35,142 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:35,142 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:35,142 - APIFunctions - INFO - {'imei': '355105401842099', 'state': 'ACTIVATED', 'iccid': '8991900992444274444F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:36,261 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:36,261 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:36,261 - APIFunctions - INFO - {'imei': '355105401857121', 'state': 'ACTIVATED', 'iccid': '8991900992444295233F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:37,476 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:37,492 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:37,492 - APIFunctions - INFO - {'imei': '355105401845712', 'state': 'ACTIVATED', 'iccid': '8991900992444283700F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:38,529 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:38,529 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:38,529 - APIFunctions - INFO - {'imei': '355105401849912', 'state': 'ACTIVATED', 'iccid': '8991900992444288428F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:39,701 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:39,701 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:39,701 - APIFunctions - INFO - {'imei': '355105401846850', 'state': 'ACTIVATED', 'iccid': '8991900992444282637F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:41,105 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:41,105 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:41,105 - APIFunctions - INFO - {'imei': '355105401846082', 'state': 'ACTIVATED', 'iccid': '8991900992444288287F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Service Chennai', 'dealerCode': '30705', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:42,083 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:42,083 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:42,083 - APIFunctions - INFO - {'imei': '355105401839327', 'state': 'ACTIVATED', 'iccid': '8991900992444273826F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:43,785 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:43,785 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-521 are below
+2024-08-09 17:09:43,785 - APIFunctions - INFO - {'imei': '355105401868037', 'state': 'ACTIVATED', 'iccid': '8991900992444297619F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-521'}
+2024-08-09 17:09:44,866 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-521.
+2024-08-09 17:09:45,935 - APIFunctions - INFO - Ticket status changes for AUDIIND-521.
+2024-08-09 17:09:47,497 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:09:47,497 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:09:48,332 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:09:48,333 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:09:50,073 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:09:50,073 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:09:50,828 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:09:50,828 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:09:52,212 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:09:52,212 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:09:52,971 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:09:52,971 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:09:54,284 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:09:54,285 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:09:55,647 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:09:55,648 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:09:56,434 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:09:56,434 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:09:57,171 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:09:57,171 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:09:57,899 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:09:57,899 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:09:58,785 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:09:58,786 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:09:59,661 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:09:59,662 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:10:00,337 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:10:00,337 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:10:01,453 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:10:01,453 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:10:02,614 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:10:02,614 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:10:03,413 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-521. API response code is 400
+2024-08-09 17:10:03,413 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-521). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2024-08-09 17:10:04,371 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:05,213 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:05,954 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:06,769 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:07,571 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:08,289 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:09,620 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:10,356 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:11,019 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:11,814 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:12,694 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:14,300 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:15,114 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:15,942 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:17,170 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:18,170 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:19,543 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.
+2024-08-09 17:10:20,533 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-521.

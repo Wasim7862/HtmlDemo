@@ -1,0 +1,12 @@
+2025-01-03 09:34:58,510 - Main - INFO - Start
+2025-01-03 09:34:59,888 - APIFunctions - INFO - Jira tickets list:
+2025-01-03 09:34:59,888 - APIFunctions - INFO - {'key': 'AUDIIND-743', 'imei': ['355105401370091'], 'vin': 'WAUZEPGE0RB017656'}
+2025-01-03 09:34:59,889 - Main - INFO - 1 tickets to process
+2025-01-03 09:35:00,744 - APIFunctions - INFO - Cerence Token generated.
+2025-01-03 09:35:00,747 - APIFunctions - INFO - {'key': 'AUDIIND-743', 'imei': ['355105401370091'], 'vin': 'WAUZEPGE0RB017656'}
+2025-01-03 09:35:00,747 - APIFunctions - INFO - 355105401370091
+2025-01-03 09:35:00,919 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-743 are below
+2025-01-03 09:35:00,930 - APIFunctions - INFO - {'imei': '355105401370091', 'state': 'VIN_MAPPED', 'iccid': '8991900992443560264F', 'deviceType': 'EV', 'firmware': '1.0.0.05', 'vin': 'WAUZEPGE0RB017656', 'carId': 'dac09940-3117-405b-8d01-cc597121fd08', 'dealerName': 'Audi-warehouse', 'dealerCode': 'NA', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-743'}
+2025-01-03 09:35:01,874 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-743.
+2025-01-03 09:35:02,884 - APIFunctions - INFO - Ticket status changes for AUDIIND-743.
+2025-01-03 09:35:03,894 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-743.

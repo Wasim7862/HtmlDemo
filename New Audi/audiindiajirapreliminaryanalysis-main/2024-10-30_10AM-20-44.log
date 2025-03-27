@@ -1,0 +1,13 @@
+2024-10-30 10:20:44,394 - Main - INFO - Start
+2024-10-30 10:20:45,899 - APIFunctions - INFO - VIN not present in ticket description
+2024-10-30 10:20:45,899 - APIFunctions - INFO - Jira tickets list:
+2024-10-30 10:20:45,899 - APIFunctions - INFO - {'key': 'AUDIIND-642', 'imei': ['355105401860299'], 'vin': 'NA'}
+2024-10-30 10:20:45,902 - Main - INFO - 1 tickets to process
+2024-10-30 10:20:47,452 - APIFunctions - INFO - Cerence Token generated.
+2024-10-30 10:20:47,454 - APIFunctions - INFO - {'key': 'AUDIIND-642', 'imei': ['355105401860299'], 'vin': 'NA'}
+2024-10-30 10:20:47,454 - APIFunctions - INFO - 355105401860299
+2024-10-30 10:20:48,279 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-642 are below
+2024-10-30 10:20:48,279 - APIFunctions - INFO - {'imei': '355105401860299', 'state': 'VIN_MAPPED', 'iccid': '8991900992444276449F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZFRFY5RY700373', 'carId': 'f05e3836-0aa8-4ea5-9530-b49ce984a349', 'dealerName': 'Audi Mumbai West', 'dealerCode': '31102', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-642'}
+2024-10-30 10:20:49,480 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-642.
+2024-10-30 10:20:50,574 - APIFunctions - INFO - Ticket status changes for AUDIIND-642.
+2024-10-30 10:20:51,402 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-642.

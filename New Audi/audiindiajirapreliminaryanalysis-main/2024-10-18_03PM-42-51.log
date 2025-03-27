@@ -1,0 +1,28 @@
+2024-10-18 15:42:51,137 - Main - INFO - Start
+2024-10-18 15:42:52,750 - APIFunctions - INFO - VIN not present in ticket description
+2024-10-18 15:42:52,750 - APIFunctions - INFO - Jira tickets list:
+2024-10-18 15:42:52,750 - APIFunctions - INFO - {'key': 'AUDIIND-627', 'imei': ['355105400945711'], 'vin': 'WAUZBNF48NY700489'}
+2024-10-18 15:42:52,750 - APIFunctions - INFO - {'key': 'AUDIIND-626', 'imei': ['355105401594013'], 'vin': 'NA'}
+2024-10-18 15:42:52,753 - Main - INFO - 2 tickets to process
+2024-10-18 15:42:54,486 - APIFunctions - INFO - Cerence Token generated.
+2024-10-18 15:42:54,489 - APIFunctions - INFO - {'key': 'AUDIIND-627', 'imei': ['355105400945711'], 'vin': 'WAUZBNF48NY700489'}
+2024-10-18 15:42:54,489 - APIFunctions - INFO - 355105400945711
+2024-10-18 15:42:56,773 - APIFunctions - INFO - Last seen received for 355105400945711
+2024-10-18 15:42:56,774 - APIFunctions - INFO - Exception
+2024-10-18 15:42:57,888 - APIFunctions - INFO - Device status received for 355105400945711
+2024-10-18 15:42:58,826 - APIFunctions - INFO - User details received for 355105400945711
+2024-10-18 15:42:58,829 - APIFunctions - INFO - {'key': 'AUDIIND-626', 'imei': ['355105401594013'], 'vin': 'NA'}
+2024-10-18 15:42:58,829 - APIFunctions - INFO - 355105401594013
+2024-10-18 15:43:00,912 - APIFunctions - INFO - Last seen received for 355105401594013
+2024-10-18 15:43:01,997 - APIFunctions - INFO - Device status received for 355105401594013
+2024-10-18 15:43:03,093 - APIFunctions - INFO - User details received for 355105401594013
+2024-10-18 15:43:03,095 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-627 are below
+2024-10-18 15:43:03,095 - APIFunctions - INFO - {'imei': '355105400945711', 'state': 'USER_MAPPED', 'iccid': '8991900991378915014F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZBNF48NY700489', 'carId': '5dd85cfb-0a30-406e-afa6-6fa79c49d314', 'dealerName': 'Audi Gurugram', 'dealerCode': '30408', 'lastSeen': 'NA', 'status': None, 'firstName': 'Rajan', 'email': 'rajan.pathak@heromotocorp.com', 'phone': '+917838385003', 'jiraTicket': 'AUDIIND-627'}
+2024-10-18 15:43:04,957 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-627.
+2024-10-18 15:43:04,959 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-626 are below
+2024-10-18 15:43:04,959 - APIFunctions - INFO - {'imei': '355105401594013', 'state': 'USER_MAPPED', 'iccid': '8991900992443877270F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZAK8U7JY004599', 'carId': '64d873b9-7db3-499c-982e-1061cb3cd02f', 'dealerName': 'Audi Service Vijayawada', 'dealerCode': '30304', 'lastSeen': datetime.datetime(2024, 10, 18, 14, 51, 6, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Umamaheswararao', 'email': 'vishnu495969@gmail.com', 'phone': '+919393664959', 'jiraTicket': 'AUDIIND-626'}
+2024-10-18 15:43:05,686 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-626.
+2024-10-18 15:43:06,471 - APIFunctions - INFO - Ticket status changes for AUDIIND-627.
+2024-10-18 15:43:07,419 - APIFunctions - INFO - Ticket status changes for AUDIIND-626.
+2024-10-18 15:43:08,147 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-627.
+2024-10-18 15:43:08,882 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-626.

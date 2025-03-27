@@ -1,0 +1,16 @@
+2025-01-08 09:35:03,132 - Main - INFO - Start
+2025-01-08 09:35:05,396 - APIFunctions - INFO - VIN not present in ticket description
+2025-01-08 09:35:05,397 - APIFunctions - INFO - Jira tickets list:
+2025-01-08 09:35:05,397 - APIFunctions - INFO - {'key': 'AUDIIND-748', 'imei': ['355105400902563'], 'vin': 'NA'}
+2025-01-08 09:35:05,399 - Main - INFO - 1 tickets to process
+2025-01-08 09:35:06,235 - APIFunctions - INFO - Cerence Token generated.
+2025-01-08 09:35:06,238 - APIFunctions - INFO - {'key': 'AUDIIND-748', 'imei': ['355105400902563'], 'vin': 'NA'}
+2025-01-08 09:35:06,239 - APIFunctions - INFO - 355105400902563
+2025-01-08 09:35:06,575 - APIFunctions - INFO - Last seen received for 355105400902563
+2025-01-08 09:35:06,806 - APIFunctions - INFO - Device status received for 355105400902563
+2025-01-08 09:35:07,014 - APIFunctions - INFO - User details received for 355105400902563
+2025-01-08 09:35:07,018 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-748 are below
+2025-01-08 09:35:07,018 - APIFunctions - INFO - {'imei': '355105400902563', 'state': 'USER_MAPPED', 'iccid': '8991900991378904000F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZGLGA5LA078160', 'carId': '23624289-f7eb-4151-a6ec-a70bf598aa08', 'dealerName': 'REGENT GARAGE PRIVATE LIMITED', 'dealerCode': '30801', 'lastSeen': datetime.datetime(2025, 1, 7, 8, 52, 37, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'notReporting', 'firstName': 'Dharmendra', 'email': 'dharamsharma89@gmail.com', 'phone': '+919925350641', 'jiraTicket': 'AUDIIND-748'}
+2025-01-08 09:35:08,211 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-748.
+2025-01-08 09:35:09,518 - APIFunctions - INFO - Ticket status changes for AUDIIND-748.
+2025-01-08 09:35:10,431 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-748.

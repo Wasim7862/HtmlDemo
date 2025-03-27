@@ -1,0 +1,6 @@
+2024-11-27 00:07:17,847 - Main - INFO - Start
+2024-11-27 00:07:20,412 - APIFunctions - INFO - Jira tickets list:
+2024-11-27 00:07:20,414 - APIFunctions - INFO - {'key': 'AUDIIND-673', 'imei': [], 'vin': 'WAUZDPGE6RB014926'}
+2024-11-27 00:07:20,417 - Main - INFO - 1 tickets to process
+2024-11-27 00:07:22,394 - APIFunctions - INFO - Cerence Token generated.
+2024-11-27 00:07:22,412 - APIFunctions - INFO - {'key': 'AUDIIND-673', 'imei': [], 'vin': 'WAUZDPGE6RB014926'}

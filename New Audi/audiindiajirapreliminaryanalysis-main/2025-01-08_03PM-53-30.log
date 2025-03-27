@@ -1,0 +1,12 @@
+2025-01-08 15:53:30,052 - Main - INFO - Start
+2025-01-08 15:53:31,611 - APIFunctions - INFO - Jira tickets list:
+2025-01-08 15:53:31,612 - APIFunctions - INFO - {'key': 'AUDIIND-750', 'imei': ['355105400971881'], 'vin': 'WAUZGPF31PY701023'}
+2025-01-08 15:53:31,614 - Main - INFO - 1 tickets to process
+2025-01-08 15:53:32,018 - APIFunctions - INFO - Cerence Token generated.
+2025-01-08 15:53:32,021 - APIFunctions - INFO - {'key': 'AUDIIND-750', 'imei': ['355105400971881'], 'vin': 'WAUZGPF31PY701023'}
+2025-01-08 15:53:32,021 - APIFunctions - INFO - 355105400971881
+2025-01-08 15:53:32,192 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-750 are below
+2025-01-08 15:53:32,204 - APIFunctions - INFO - {'imei': '355105400971881', 'state': 'ACTIVATED', 'iccid': '8991900991298725550F', 'deviceType': 'ICE', 'firmware': '1.0.0.05', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Lucknow', 'dealerCode': '30113', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-750'}
+2025-01-08 15:53:33,849 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-750.
+2025-01-08 15:53:35,203 - APIFunctions - INFO - Ticket status changes for AUDIIND-750.
+2025-01-08 15:53:36,210 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-750.

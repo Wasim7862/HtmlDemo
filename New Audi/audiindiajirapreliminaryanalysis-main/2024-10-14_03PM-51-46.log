@@ -1,0 +1,24 @@
+2024-10-14 15:51:46,233 - Main - INFO - Start
+2024-10-14 15:51:47,940 - APIFunctions - INFO - VIN not present in ticket description
+2024-10-14 15:51:47,940 - APIFunctions - INFO - Jira tickets list:
+2024-10-14 15:51:47,940 - APIFunctions - INFO - {'key': 'AUDIIND-624', 'imei': ['355105401850605'], 'vin': 'NA'}
+2024-10-14 15:51:47,941 - APIFunctions - INFO - {'key': 'AUDIIND-623', 'imei': ['355105401851496'], 'vin': 'WAUZKKF40KY700254'}
+2024-10-14 15:51:47,942 - Main - INFO - 2 tickets to process
+2024-10-14 15:51:49,119 - APIFunctions - INFO - Cerence Token generated.
+2024-10-14 15:51:49,121 - APIFunctions - INFO - {'key': 'AUDIIND-624', 'imei': ['355105401850605'], 'vin': 'NA'}
+2024-10-14 15:51:49,122 - APIFunctions - INFO - 355105401850605
+2024-10-14 15:51:50,136 - APIFunctions - INFO - {'key': 'AUDIIND-623', 'imei': ['355105401851496'], 'vin': 'WAUZKKF40KY700254'}
+2024-10-14 15:51:50,137 - APIFunctions - INFO - 355105401851496
+2024-10-14 15:51:52,064 - APIFunctions - INFO - Last seen received for 355105401851496
+2024-10-14 15:51:53,102 - APIFunctions - INFO - Device status received for 355105401851496
+2024-10-14 15:51:54,127 - APIFunctions - INFO - User details received for 355105401851496
+2024-10-14 15:51:54,128 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-624 are below
+2024-10-14 15:51:54,128 - APIFunctions - INFO - {'imei': '355105401850605', 'state': 'ACTIVATED', 'iccid': '8991900992444270764F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Service Delhi South', 'dealerCode': '30308', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-624'}
+2024-10-14 15:51:55,232 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-624.
+2024-10-14 15:51:55,233 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-623 are below
+2024-10-14 15:51:55,233 - APIFunctions - INFO - {'imei': '355105401851496', 'state': 'USER_MAPPED', 'iccid': '8991900992444291018F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZKKF40KY700254', 'carId': 'b2ea57e0-649e-4582-a93f-e57b8070d8ed', 'dealerName': 'Audi Jaipur', 'dealerCode': '30112', 'lastSeen': datetime.datetime(2024, 10, 14, 15, 46, 4, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Dilip', 'email': 'dilipkumararora72@gmail.com', 'phone': '+919414180316', 'jiraTicket': 'AUDIIND-623'}
+2024-10-14 15:51:56,565 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-623.
+2024-10-14 15:51:57,634 - APIFunctions - INFO - Ticket status changes for AUDIIND-624.
+2024-10-14 15:51:58,692 - APIFunctions - INFO - Ticket status changes for AUDIIND-623.
+2024-10-14 15:51:59,476 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-624.
+2024-10-14 15:52:00,992 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-623.

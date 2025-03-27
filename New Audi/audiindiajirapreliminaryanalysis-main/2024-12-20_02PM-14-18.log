@@ -1,0 +1,13 @@
+2024-12-20 14:14:18,406 - Main - INFO - Start
+2024-12-20 14:14:20,070 - APIFunctions - INFO - VIN not present in ticket description
+2024-12-20 14:14:20,071 - APIFunctions - INFO - Jira tickets list:
+2024-12-20 14:14:20,071 - APIFunctions - INFO - {'key': 'AUDIIND-720', 'imei': ['355105401638224'], 'vin': 'NA'}
+2024-12-20 14:14:20,075 - Main - INFO - 1 tickets to process
+2024-12-20 14:14:21,642 - APIFunctions - INFO - Cerence Token generated.
+2024-12-20 14:14:21,644 - APIFunctions - INFO - {'key': 'AUDIIND-720', 'imei': ['355105401638224'], 'vin': 'NA'}
+2024-12-20 14:14:21,645 - APIFunctions - INFO - 355105401638224
+2024-12-20 14:14:22,906 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-720 are below
+2024-12-20 14:14:22,906 - APIFunctions - INFO - {'imei': '355105401638224', 'state': 'EXPIRED', 'iccid': '8991900991378954849F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Service Pune', 'dealerCode': '31802', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-720'}
+2024-12-20 14:14:24,097 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-720.
+2024-12-20 14:14:25,203 - APIFunctions - INFO - Ticket status changes for AUDIIND-720.
+2024-12-20 14:14:26,112 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-720.

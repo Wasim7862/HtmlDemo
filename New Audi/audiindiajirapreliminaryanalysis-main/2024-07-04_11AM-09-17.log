@@ -1,0 +1,12 @@
+2024-07-04 11:09:17,201 - Main - INFO - Start
+2024-07-04 11:09:17,951 - APIFunctions - INFO - Jira tickets list:
+2024-07-04 11:09:17,952 - APIFunctions - INFO - {'key': 'AUDIIND-435', 'imei': ['355105401853518'], 'vin': 'WUAZDPF59PA903102'}
+2024-07-04 11:09:17,953 - Main - INFO - 1 tickets to process
+2024-07-04 11:09:19,158 - APIFunctions - INFO - Cerence Token generated.
+2024-07-04 11:09:19,159 - APIFunctions - INFO - {'key': 'AUDIIND-435', 'imei': ['355105401853518'], 'vin': 'WUAZDPF59PA903102'}
+2024-07-04 11:09:19,159 - APIFunctions - INFO - 355105401853518
+2024-07-04 11:09:20,164 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-435 are below
+2024-07-04 11:09:20,165 - APIFunctions - INFO - {'imei': '355105401853518', 'state': 'ACTIVATED', 'iccid': '8991900992444287685F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Service Bengaluru', 'dealerCode': '30203', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-435'}
+2024-07-04 11:09:21,068 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-435.
+2024-07-04 11:09:21,960 - APIFunctions - INFO - Ticket status changes for AUDIIND-435.
+2024-07-04 11:09:22,613 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-435.

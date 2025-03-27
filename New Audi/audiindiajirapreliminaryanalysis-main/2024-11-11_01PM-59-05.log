@@ -1,0 +1,12 @@
+2024-11-11 13:59:05,652 - Main - INFO - Start
+2024-11-11 13:59:07,260 - APIFunctions - INFO - Jira tickets list:
+2024-11-11 13:59:07,261 - APIFunctions - INFO - {'key': 'AUDIIND-653', 'imei': ['862047040221192'], 'vin': 'WAUZBMGE3MB028652'}
+2024-11-11 13:59:07,266 - Main - INFO - 1 tickets to process
+2024-11-11 13:59:09,086 - APIFunctions - INFO - Cerence Token generated.
+2024-11-11 13:59:09,090 - APIFunctions - INFO - {'key': 'AUDIIND-653', 'imei': ['862047040221192'], 'vin': 'WAUZBMGE3MB028652'}
+2024-11-11 13:59:09,090 - APIFunctions - INFO - 862047040221192
+2024-11-11 13:59:10,328 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-653 are below
+2024-11-11 13:59:10,339 - APIFunctions - INFO - {'imei': '862047040221192', 'state': 'VIN_MAPPED', 'iccid': '8991900991251209071F', 'deviceType': 'EV', 'firmware': '1.0.0.5', 'vin': 'WAUZBMGE3MB028652', 'carId': '1720bf8c-47b7-4eab-a595-e83ccd69924e', 'dealerName': 'QA Dealer', 'dealerCode': '12345', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-653'}
+2024-11-11 13:59:11,581 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-653.
+2024-11-11 13:59:12,697 - APIFunctions - INFO - Ticket status changes for AUDIIND-653.
+2024-11-11 13:59:13,705 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-653.

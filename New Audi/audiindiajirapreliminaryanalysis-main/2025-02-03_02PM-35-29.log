@@ -1,0 +1,13 @@
+2025-02-03 14:35:29,947 - Main - INFO - Start
+2025-02-03 14:35:32,554 - APIFunctions - INFO - VIN not present in ticket description
+2025-02-03 14:35:32,555 - APIFunctions - INFO - Jira tickets list:
+2025-02-03 14:35:32,555 - APIFunctions - INFO - {'key': 'AUDIIND-774', 'imei': ['355105401618952'], 'vin': 'NA'}
+2025-02-03 14:35:32,559 - Main - INFO - 1 tickets to process
+2025-02-03 14:35:43,119 - APIFunctions - INFO - Cerence Token generated.
+2025-02-03 14:35:43,123 - APIFunctions - INFO - {'key': 'AUDIIND-774', 'imei': ['355105401618952'], 'vin': 'NA'}
+2025-02-03 14:35:43,124 - APIFunctions - INFO - 355105401618952
+2025-02-03 14:35:44,318 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-774 are below
+2025-02-03 14:35:44,318 - APIFunctions - INFO - {'imei': '355105401618952', 'state': 'ACTIVATED', 'iccid': '8991900992443922282F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Service Thane', 'dealerCode': '31002', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-774'}
+2025-02-03 14:35:45,429 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-774.
+2025-02-03 14:35:46,480 - APIFunctions - INFO - Ticket status changes for AUDIIND-774.
+2025-02-03 14:35:47,296 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-774.

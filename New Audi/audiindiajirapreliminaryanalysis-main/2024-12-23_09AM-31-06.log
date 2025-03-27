@@ -1,0 +1,25 @@
+2024-12-23 09:31:06,567 - Main - INFO - Start
+2024-12-23 09:31:08,036 - APIFunctions - INFO - VIN not present in ticket description
+2024-12-23 09:31:08,037 - APIFunctions - INFO - VIN not present in ticket description
+2024-12-23 09:31:08,037 - APIFunctions - INFO - Jira tickets list:
+2024-12-23 09:31:08,037 - APIFunctions - INFO - {'key': 'AUDIIND-722', 'imei': ['355105401637937'], 'vin': 'NA'}
+2024-12-23 09:31:08,038 - APIFunctions - INFO - {'key': 'AUDIIND-721', 'imei': ['355105401641335'], 'vin': 'NA'}
+2024-12-23 09:31:08,041 - Main - INFO - 2 tickets to process
+2024-12-23 09:31:09,997 - APIFunctions - INFO - Cerence Token generated.
+2024-12-23 09:31:10,000 - APIFunctions - INFO - {'key': 'AUDIIND-722', 'imei': ['355105401637937'], 'vin': 'NA'}
+2024-12-23 09:31:10,001 - APIFunctions - INFO - 355105401637937
+2024-12-23 09:31:10,127 - APIFunctions - INFO - {'key': 'AUDIIND-721', 'imei': ['355105401641335'], 'vin': 'NA'}
+2024-12-23 09:31:10,127 - APIFunctions - INFO - 355105401641335
+2024-12-23 09:31:10,457 - APIFunctions - INFO - Last seen received for 355105401641335
+2024-12-23 09:31:10,679 - APIFunctions - INFO - Device status received for 355105401641335
+2024-12-23 09:31:10,910 - APIFunctions - INFO - User details received for 355105401641335
+2024-12-23 09:31:10,914 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-722 are below
+2024-12-23 09:31:10,914 - APIFunctions - INFO - {'imei': '355105401637937', 'state': 'EXPIRED', 'iccid': '8991900992443883039F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Chandigarh', 'dealerCode': '30207', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-722'}
+2024-12-23 09:31:11,979 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-722.
+2024-12-23 09:31:11,984 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-721 are below
+2024-12-23 09:31:11,985 - APIFunctions - INFO - {'imei': '355105401641335', 'state': 'USER_MAPPED', 'iccid': '8991900991378956240F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZAE8K2EY700843', 'carId': '5752ee19-5617-4cc3-9211-7072f7638cca', 'dealerName': 'Audi Karnal', 'dealerCode': '30208', 'lastSeen': datetime.datetime(2024, 12, 23, 9, 26, 54, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Vinkal', 'email': 'sharma.vinkal@gmail.com', 'phone': '+919996900099', 'jiraTicket': 'AUDIIND-721'}
+2024-12-23 09:31:13,109 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-721.
+2024-12-23 09:31:14,192 - APIFunctions - INFO - Ticket status changes for AUDIIND-722.
+2024-12-23 09:31:15,337 - APIFunctions - INFO - Ticket status changes for AUDIIND-721.
+2024-12-23 09:31:16,262 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-722.
+2024-12-23 09:31:18,234 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-721.

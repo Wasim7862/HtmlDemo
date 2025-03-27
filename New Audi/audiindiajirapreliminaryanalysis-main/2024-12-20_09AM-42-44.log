@@ -1,0 +1,13 @@
+2024-12-20 09:42:44,194 - Main - INFO - Start
+2024-12-20 09:42:45,767 - APIFunctions - INFO - VIN not present in ticket description
+2024-12-20 09:42:45,768 - APIFunctions - INFO - Jira tickets list:
+2024-12-20 09:42:45,769 - APIFunctions - INFO - {'key': 'AUDIIND-706', 'imei': ['355105401611064'], 'vin': 'NA'}
+2024-12-20 09:42:45,772 - Main - INFO - 1 tickets to process
+2024-12-20 09:42:46,784 - APIFunctions - INFO - Cerence Token generated.
+2024-12-20 09:42:46,787 - APIFunctions - INFO - {'key': 'AUDIIND-706', 'imei': ['355105401611064'], 'vin': 'NA'}
+2024-12-20 09:42:46,787 - APIFunctions - INFO - 355105401611064
+2024-12-20 09:42:46,989 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-706 are below
+2024-12-20 09:42:46,989 - APIFunctions - INFO - {'imei': '355105401611064', 'state': 'EXPIRED', 'iccid': '8991900992443882015F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Service Bengaluru', 'dealerCode': '30203', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-706'}
+2024-12-20 09:42:48,135 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-706.
+2024-12-20 09:42:49,216 - APIFunctions - INFO - Ticket status changes for AUDIIND-706.
+2024-12-20 09:42:50,361 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-706.

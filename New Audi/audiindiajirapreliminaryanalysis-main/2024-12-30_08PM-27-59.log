@@ -1,0 +1,37 @@
+2024-12-30 20:27:59,218 - Main - INFO - Start
+2024-12-30 20:28:02,080 - APIFunctions - INFO - VIN not present in ticket description
+2024-12-30 20:28:02,081 - APIFunctions - INFO - VIN not present in ticket description
+2024-12-30 20:28:02,081 - APIFunctions - INFO - VIN not present in ticket description
+2024-12-30 20:28:02,081 - APIFunctions - INFO - Jira tickets list:
+2024-12-30 20:28:02,081 - APIFunctions - INFO - {'key': 'AUDIIND-736', 'imei': ['355105400960785'], 'vin': 'NA'}
+2024-12-30 20:28:02,081 - APIFunctions - INFO - {'key': 'AUDIIND-735', 'imei': ['355105401586498'], 'vin': 'NA'}
+2024-12-30 20:28:02,082 - APIFunctions - INFO - {'key': 'AUDIIND-734', 'imei': ['355105401641335'], 'vin': 'NA'}
+2024-12-30 20:28:02,086 - Main - INFO - 3 tickets to process
+2024-12-30 20:28:04,172 - APIFunctions - INFO - Cerence Token generated.
+2024-12-30 20:28:04,176 - APIFunctions - INFO - {'key': 'AUDIIND-736', 'imei': ['355105400960785'], 'vin': 'NA'}
+2024-12-30 20:28:04,176 - APIFunctions - INFO - 355105400960785
+2024-12-30 20:28:04,621 - APIFunctions - INFO - Last seen received for 355105400960785
+2024-12-30 20:28:04,846 - APIFunctions - INFO - Device status received for 355105400960785
+2024-12-30 20:28:05,091 - APIFunctions - INFO - User details received for 355105400960785
+2024-12-30 20:28:05,093 - APIFunctions - INFO - {'key': 'AUDIIND-735', 'imei': ['355105401586498'], 'vin': 'NA'}
+2024-12-30 20:28:05,093 - APIFunctions - INFO - 355105401586498
+2024-12-30 20:28:05,384 - APIFunctions - INFO - Last seen received for 355105401586498
+2024-12-30 20:28:05,666 - APIFunctions - INFO - Device status received for 355105401586498
+2024-12-30 20:28:05,924 - APIFunctions - INFO - User details received for 355105401586498
+2024-12-30 20:28:05,926 - APIFunctions - INFO - {'key': 'AUDIIND-734', 'imei': ['355105401641335'], 'vin': 'NA'}
+2024-12-30 20:28:05,927 - APIFunctions - INFO - 355105401641335
+2024-12-30 20:28:06,069 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-736 are below
+2024-12-30 20:28:06,070 - APIFunctions - INFO - {'imei': '355105400960785', 'state': 'USER_MAPPED', 'iccid': '8991900991298736268F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZBPF28PY000663', 'carId': 'a107d8b3-ae4a-4b18-a6fb-7a1a14dd32e3', 'dealerName': 'Audi Service Pune', 'dealerCode': '31802', 'lastSeen': datetime.datetime(2024, 12, 30, 20, 28, 2, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'connected', 'firstName': 'Leena', 'email': 'leena.nanaware14@gmail.com', 'phone': '+917263084766', 'jiraTicket': 'AUDIIND-736'}
+2024-12-30 20:28:08,077 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-736.
+2024-12-30 20:28:08,092 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-735 are below
+2024-12-30 20:28:08,092 - APIFunctions - INFO - {'imei': '355105401586498', 'state': 'USER_MAPPED', 'iccid': '8991900991378958139F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZGRF40RY701053', 'carId': 'd658fce0-26a9-4ad9-bf68-672959543e2b', 'dealerName': 'Audi Service Mumbai South', 'dealerCode': '32002', 'lastSeen': datetime.datetime(2024, 12, 30, 19, 33, 53, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Sagar', 'email': 'sagarshelke.pratiksha@gmail.com', 'phone': '+919975817581', 'jiraTicket': 'AUDIIND-735'}
+2024-12-30 20:28:09,247 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-735.
+2024-12-30 20:28:09,247 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-734 are below
+2024-12-30 20:28:09,247 - APIFunctions - INFO - {'imei': '355105401641335', 'state': 'VIN_MAPPED', 'iccid': '8991900991378956240F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZAE8K2EY700843', 'carId': '59d081c1-f8e4-45da-be9a-2d9ee6e19f18', 'dealerName': 'Audi Karnal', 'dealerCode': '30208', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-734'}
+2024-12-30 20:28:10,397 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-734.
+2024-12-30 20:28:11,455 - APIFunctions - INFO - Ticket status changes for AUDIIND-736.
+2024-12-30 20:28:12,575 - APIFunctions - INFO - Ticket status changes for AUDIIND-735.
+2024-12-30 20:28:14,827 - APIFunctions - INFO - Ticket status changes for AUDIIND-734.
+2024-12-30 20:28:15,715 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-736.
+2024-12-30 20:28:16,662 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-735.
+2024-12-30 20:28:17,562 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-734.

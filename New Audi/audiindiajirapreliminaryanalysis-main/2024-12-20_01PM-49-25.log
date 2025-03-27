@@ -1,0 +1,13 @@
+2024-12-20 13:49:25,400 - Main - INFO - Start
+2024-12-20 13:49:27,064 - APIFunctions - INFO - VIN not present in ticket description
+2024-12-20 13:49:27,064 - APIFunctions - INFO - Jira tickets list:
+2024-12-20 13:49:27,064 - APIFunctions - INFO - {'key': 'AUDIIND-719', 'imei': ['355105401641335'], 'vin': 'NA'}
+2024-12-20 13:49:27,066 - Main - INFO - 1 tickets to process
+2024-12-20 13:49:41,414 - APIFunctions - INFO - Cerence Token generated.
+2024-12-20 13:49:41,416 - APIFunctions - INFO - {'key': 'AUDIIND-719', 'imei': ['355105401641335'], 'vin': 'NA'}
+2024-12-20 13:49:41,416 - APIFunctions - INFO - 355105401641335
+2024-12-20 13:49:41,609 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-719 are below
+2024-12-20 13:49:41,609 - APIFunctions - INFO - {'imei': '355105401641335', 'state': 'EXPIRED', 'iccid': '8991900991378956240F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Karnal', 'dealerCode': '30208', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-719'}
+2024-12-20 13:49:43,057 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-719.
+2024-12-20 13:49:44,162 - APIFunctions - INFO - Ticket status changes for AUDIIND-719.
+2024-12-20 13:49:45,024 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-719.

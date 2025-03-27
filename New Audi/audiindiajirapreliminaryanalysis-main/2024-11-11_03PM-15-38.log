@@ -1,0 +1,12 @@
+2024-11-11 15:15:38,691 - Main - INFO - Start
+2024-11-11 15:15:41,057 - APIFunctions - INFO - Jira tickets list:
+2024-11-11 15:15:41,058 - APIFunctions - INFO - {'key': 'AUDIIND-654', 'imei': ['355105400943674'], 'vin': 'WAUZMN4M4PY000260'}
+2024-11-11 15:15:41,062 - Main - INFO - 1 tickets to process
+2024-11-11 15:15:42,336 - APIFunctions - INFO - Cerence Token generated.
+2024-11-11 15:15:42,338 - APIFunctions - INFO - {'key': 'AUDIIND-654', 'imei': ['355105400943674'], 'vin': 'WAUZMN4M4PY000260'}
+2024-11-11 15:15:42,339 - APIFunctions - INFO - 355105400943674
+2024-11-11 15:15:43,199 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-654 are below
+2024-11-11 15:15:43,210 - APIFunctions - INFO - {'imei': '355105400943674', 'state': 'VIN_MAPPED', 'iccid': '8991900991378902467F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZMN4M4PY000260', 'carId': '9886ba07-14b2-4360-8989-502d5177272b', 'dealerName': 'Audi Chandigarh', 'dealerCode': '30207', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-654'}
+2024-11-11 15:15:46,682 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-654.
+2024-11-11 15:15:47,664 - APIFunctions - INFO - Ticket status changes for AUDIIND-654.
+2024-11-11 15:15:49,269 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-654.

@@ -1,0 +1,16 @@
+2024-10-07 16:18:02,181 - Main - INFO - Start
+2024-10-07 16:18:03,510 - APIFunctions - INFO - VIN not present in ticket description
+2024-10-07 16:18:03,510 - APIFunctions - INFO - Jira tickets list:
+2024-10-07 16:18:03,510 - APIFunctions - INFO - {'key': 'AUDIIND-610', 'imei': ['355105400963649'], 'vin': 'NA'}
+2024-10-07 16:18:03,510 - Main - INFO - 1 tickets to process
+2024-10-07 16:18:04,855 - APIFunctions - INFO - Cerence Token generated.
+2024-10-07 16:18:04,856 - APIFunctions - INFO - {'key': 'AUDIIND-610', 'imei': ['355105400963649'], 'vin': 'NA'}
+2024-10-07 16:18:04,857 - APIFunctions - INFO - 355105400963649
+2024-10-07 16:18:07,378 - APIFunctions - INFO - Last seen received for 355105400963649
+2024-10-07 16:18:08,625 - APIFunctions - INFO - Device status received for 355105400963649
+2024-10-07 16:18:10,039 - APIFunctions - INFO - User details received for 355105400963649
+2024-10-07 16:18:10,044 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-610 are below
+2024-10-07 16:18:10,044 - APIFunctions - INFO - {'imei': '355105400963649', 'state': 'USER_MAPPED', 'iccid': '8991900991298733638F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZHPF32PY701142', 'carId': '2a216270-8ed5-4c0a-bbd2-04e3e087e8fc', 'dealerName': 'Audi Chandigarh', 'dealerCode': '30207', 'lastSeen': datetime.datetime(2024, 10, 7, 13, 12, 42, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Maninder', 'email': 'singhmaninder14@yahoo.com', 'phone': '+919816156781', 'jiraTicket': 'AUDIIND-610'}
+2024-10-07 16:18:10,851 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-610.
+2024-10-07 16:18:11,757 - APIFunctions - INFO - Ticket status changes for AUDIIND-610.
+2024-10-07 16:18:12,503 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-610.

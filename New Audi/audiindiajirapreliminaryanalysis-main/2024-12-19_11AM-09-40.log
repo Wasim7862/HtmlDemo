@@ -1,0 +1,28 @@
+2024-12-19 11:09:40,171 - Main - INFO - Start
+2024-12-19 11:09:41,652 - APIFunctions - INFO - VIN not present in ticket description
+2024-12-19 11:09:41,652 - APIFunctions - INFO - VIN not present in ticket description
+2024-12-19 11:09:41,652 - APIFunctions - INFO - Jira tickets list:
+2024-12-19 11:09:41,653 - APIFunctions - INFO - {'key': 'AUDIIND-704', 'imei': ['355105400978357'], 'vin': 'NA'}
+2024-12-19 11:09:41,653 - APIFunctions - INFO - {'key': 'AUDIIND-703', 'imei': ['355105401364318'], 'vin': 'NA'}
+2024-12-19 11:09:41,654 - Main - INFO - 2 tickets to process
+2024-12-19 11:09:42,617 - APIFunctions - INFO - Cerence Token generated.
+2024-12-19 11:09:42,619 - APIFunctions - INFO - {'key': 'AUDIIND-704', 'imei': ['355105400978357'], 'vin': 'NA'}
+2024-12-19 11:09:42,619 - APIFunctions - INFO - 355105400978357
+2024-12-19 11:09:42,937 - APIFunctions - INFO - Last seen received for 355105400978357
+2024-12-19 11:09:43,218 - APIFunctions - INFO - Device status received for 355105400978357
+2024-12-19 11:09:43,471 - APIFunctions - INFO - User details received for 355105400978357
+2024-12-19 11:09:43,472 - APIFunctions - INFO - {'key': 'AUDIIND-703', 'imei': ['355105401364318'], 'vin': 'NA'}
+2024-12-19 11:09:43,472 - APIFunctions - INFO - 355105401364318
+2024-12-19 11:09:43,801 - APIFunctions - INFO - Last seen received for 355105401364318
+2024-12-19 11:09:44,010 - APIFunctions - INFO - Device status received for 355105401364318
+2024-12-19 11:09:44,232 - APIFunctions - INFO - User details received for 355105401364318
+2024-12-19 11:09:44,233 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-704 are below
+2024-12-19 11:09:44,234 - APIFunctions - INFO - {'imei': '355105400978357', 'state': 'USER_MAPPED', 'iccid': '8991900991378911971F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZJNF4XPY700063', 'carId': '6f1189a3-17e5-45d9-8a47-39ad2311dcb6', 'dealerName': 'Audi Service Bengaluru', 'dealerCode': '30203', 'lastSeen': datetime.datetime(2024, 12, 19, 11, 0, 15, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Sarat', 'email': 'saratnair12@gmail.com', 'phone': '+919885030381', 'jiraTicket': 'AUDIIND-704'}
+2024-12-19 11:09:45,088 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-704.
+2024-12-19 11:09:45,091 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-703 are below
+2024-12-19 11:09:45,091 - APIFunctions - INFO - {'imei': '355105401364318', 'state': 'USER_MAPPED', 'iccid': '8991900992443541041F', 'deviceType': 'EV', 'firmware': '1.0.0.05', 'vin': 'WAUZGPGEXRB027914', 'carId': '83d0ec55-4ff1-444c-9715-b31167884e2c', 'dealerName': 'Audi Karnal', 'dealerCode': '30208', 'lastSeen': datetime.datetime(2024, 12, 19, 10, 21, 5, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Karamveer', 'email': 'karamveersingh266@gmail.com', 'phone': '+919671749662', 'jiraTicket': 'AUDIIND-703'}
+2024-12-19 11:09:46,024 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-703.
+2024-12-19 11:09:46,935 - APIFunctions - INFO - Ticket status changes for AUDIIND-704.
+2024-12-19 11:09:47,929 - APIFunctions - INFO - Ticket status changes for AUDIIND-703.
+2024-12-19 11:09:48,698 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-704.
+2024-12-19 11:09:49,479 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-703.

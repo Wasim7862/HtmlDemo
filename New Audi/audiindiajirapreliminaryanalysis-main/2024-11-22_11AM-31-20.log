@@ -1,0 +1,13 @@
+2024-11-22 11:31:20,354 - Main - INFO - Start
+2024-11-22 11:31:22,715 - APIFunctions - INFO - VIN not present in ticket description
+2024-11-22 11:31:22,715 - APIFunctions - INFO - Jira tickets list:
+2024-11-22 11:31:22,715 - APIFunctions - INFO - {'key': 'AUDIIND-667', 'imei': ['355105401044225'], 'vin': 'NA'}
+2024-11-22 11:31:22,717 - Main - INFO - 1 tickets to process
+2024-11-22 11:31:23,946 - APIFunctions - INFO - Cerence Token generated.
+2024-11-22 11:31:23,948 - APIFunctions - INFO - {'key': 'AUDIIND-667', 'imei': ['355105401044225'], 'vin': 'NA'}
+2024-11-22 11:31:23,948 - APIFunctions - INFO - 355105401044225
+2024-11-22 11:31:24,819 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-667 are below
+2024-11-22 11:31:24,819 - APIFunctions - INFO - {'imei': '355105401044225', 'state': 'VIN_MAPPED', 'iccid': '8991900992443614418F', 'deviceType': 'EV', 'firmware': 'B003', 'vin': 'WAUZDPGE6RB014926', 'carId': 'ce449bb9-9d9c-4715-9192-dbdcc1e7e40d', 'dealerName': 'Audi Service Bengaluru', 'dealerCode': '30203', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-667'}
+2024-11-22 11:31:26,905 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-667.
+2024-11-22 11:31:27,927 - APIFunctions - INFO - Ticket status changes for AUDIIND-667.
+2024-11-22 11:31:28,740 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-667.

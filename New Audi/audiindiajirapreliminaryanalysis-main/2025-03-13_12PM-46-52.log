@@ -1,0 +1,55 @@
+2025-03-13 12:46:52,823 - Main - INFO - Start
+2025-03-13 12:46:54,522 - APIFunctions - INFO - VIN not present in ticket description
+2025-03-13 12:46:54,523 - APIFunctions - INFO - Jira tickets list:
+2025-03-13 12:46:54,523 - APIFunctions - INFO - {'key': 'AUDIIND-802', 'imei': ['355105400954473'], 'vin': 'WAUZBMF42MY700481'}
+2025-03-13 12:46:54,523 - APIFunctions - INFO - {'key': 'AUDIIND-801', 'imei': ['355105401586183', '355105401607187', '355105401980295'], 'vin': 'NA'}
+2025-03-13 12:46:54,524 - APIFunctions - INFO - {'key': 'AUDIIND-800', 'imei': ['355105401363443'], 'vin': 'WAUZEPGE6RB019198'}
+2025-03-13 12:46:54,527 - Main - INFO - 3 tickets to process
+2025-03-13 12:46:55,334 - APIFunctions - INFO - Cerence Token generated.
+2025-03-13 12:46:55,336 - APIFunctions - INFO - {'key': 'AUDIIND-802', 'imei': ['355105400954473'], 'vin': 'WAUZBMF42MY700481'}
+2025-03-13 12:46:55,336 - APIFunctions - INFO - 355105400954473
+2025-03-13 12:46:55,615 - APIFunctions - INFO - {'key': 'AUDIIND-801', 'imei': ['355105401586183', '355105401607187', '355105401980295'], 'vin': 'NA'}
+2025-03-13 12:46:55,616 - APIFunctions - INFO - 355105401586183
+2025-03-13 12:46:55,905 - APIFunctions - INFO - Last seen received for 355105401586183
+2025-03-13 12:46:56,165 - APIFunctions - INFO - Device status received for 355105401586183
+2025-03-13 12:46:56,381 - APIFunctions - INFO - User details received for 355105401586183
+2025-03-13 12:46:56,383 - APIFunctions - INFO - 355105401607187
+2025-03-13 12:46:56,744 - APIFunctions - INFO - Last seen received for 355105401607187
+2025-03-13 12:46:56,973 - APIFunctions - INFO - Device status received for 355105401607187
+2025-03-13 12:46:57,250 - APIFunctions - INFO - User details received for 355105401607187
+2025-03-13 12:46:57,252 - APIFunctions - INFO - 355105401980295
+2025-03-13 12:46:57,610 - APIFunctions - INFO - Last seen received for 355105401980295
+2025-03-13 12:46:57,833 - APIFunctions - INFO - Device status received for 355105401980295
+2025-03-13 12:46:58,054 - APIFunctions - INFO - User details received for 355105401980295
+2025-03-13 12:46:58,057 - APIFunctions - INFO - {'key': 'AUDIIND-800', 'imei': ['355105401363443'], 'vin': 'WAUZEPGE6RB019198'}
+2025-03-13 12:46:58,057 - APIFunctions - INFO - 355105401363443
+2025-03-13 12:46:58,496 - APIFunctions - INFO - Last seen received for 355105401363443
+2025-03-13 12:46:58,701 - APIFunctions - INFO - Device status received for 355105401363443
+2025-03-13 12:46:59,924 - APIFunctions - INFO - User details received for 355105401363443
+2025-03-13 12:46:59,926 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-802 are below
+2025-03-13 12:46:59,926 - APIFunctions - INFO - {'imei': '355105400954473', 'state': 'VIN_MAPPED', 'iccid': '8991900991298738298F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZBMF42MY700481', 'carId': '44da3202-8ce3-41a9-8318-81f92d12ce4c', 'dealerName': 'Audi Hyderabad', 'dealerCode': '30104', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-802'}
+2025-03-13 12:47:02,075 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-802.
+2025-03-13 12:47:02,076 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-801 are below
+2025-03-13 12:47:02,077 - APIFunctions - INFO - {'imei': '355105401586183', 'state': 'USER_MAPPED', 'iccid': '8991900991378961596F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZFRF27RY000737', 'carId': 'bfcd5056-c4fe-400c-8798-8045cf94fd91', 'dealerName': 'Audi Service Chennai', 'dealerCode': '30705', 'lastSeen': datetime.datetime(2025, 3, 13, 11, 24, 37, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'notReporting', 'firstName': 'Tushar', 'email': 'tushar_bhandari@audigoa.in', 'phone': '+918380066405', 'jiraTicket': 'AUDIIND-801'}
+2025-03-13 12:47:03,103 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-801.
+2025-03-13 12:47:03,105 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-801 are below
+2025-03-13 12:47:03,105 - APIFunctions - INFO - {'imei': '355105401607187', 'state': 'USER_MAPPED', 'iccid': '8991900992443878484F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZGRF13RD020186', 'carId': '7e8bfd07-f0f9-46ef-82b4-da8dae77e8fa', 'dealerName': 'Audi Service Goa', 'dealerCode': '30620', 'lastSeen': datetime.datetime(2025, 3, 13, 11, 41, 24, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Tushar', 'email': 'tushar_bhandari@audigoa.in', 'phone': '+918380066405', 'jiraTicket': 'AUDIIND-801'}
+2025-03-13 12:47:05,001 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-801.
+2025-03-13 12:47:05,004 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-801 are below
+2025-03-13 12:47:05,004 - APIFunctions - INFO - {'imei': '355105401980295', 'state': 'USER_MAPPED', 'iccid': '8991900992443291795F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZLR4M1SY000123', 'carId': 'eb5c5c69-8ab7-4f2e-b170-0002a2043d04', 'dealerName': 'Audi Service Goa', 'dealerCode': '30620', 'lastSeen': datetime.datetime(2025, 3, 13, 10, 46, 29, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Tushar', 'email': 'tushar_bhandari@audigoa.in', 'phone': '+918380066405', 'jiraTicket': 'AUDIIND-801'}
+2025-03-13 12:47:06,267 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-801.
+2025-03-13 12:47:06,271 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-800 are below
+2025-03-13 12:47:06,271 - APIFunctions - INFO - {'imei': '355105401363443', 'state': 'USER_MAPPED', 'iccid': '8991900992443557351F', 'deviceType': 'EV', 'firmware': '1.0.0.05', 'vin': 'WAUZEPGE6RB019198', 'carId': '2e419afd-ef9c-4265-95e7-314f4a61cd9e', 'dealerName': 'Audi Service Thane', 'dealerCode': '31002', 'lastSeen': datetime.datetime(2025, 3, 9, 13, 33, 11, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'notReporting', 'firstName': 'Hiren', 'email': 'hiren@indigitalit.com', 'phone': '+919819722080', 'jiraTicket': 'AUDIIND-800'}
+2025-03-13 12:47:07,187 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-800.
+2025-03-13 12:47:08,406 - APIFunctions - INFO - Ticket status changes for AUDIIND-802.
+2025-03-13 12:47:09,370 - APIFunctions - INFO - Ticket status changes for AUDIIND-801.
+2025-03-13 12:47:10,025 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-801. API response code is 400
+2025-03-13 12:47:10,026 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-801). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2025-03-13 12:47:12,065 - APIFunctions - ERROR - Unable to change ticket status of AUDIIND-801. API response code is 400
+2025-03-13 12:47:12,065 - APIFunctions - ERROR - b'{"errorMessages":["Can\'t move (AUDIIND-801). You might not have permission, or the issue is missing required information. If you keep having this problem, contact your Jira Administrator."],"errors":{}}'
+2025-03-13 12:47:13,162 - APIFunctions - INFO - Ticket status changes for AUDIIND-800.
+2025-03-13 12:47:14,021 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-802.
+2025-03-13 12:47:14,906 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-801.
+2025-03-13 12:47:15,895 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-801.
+2025-03-13 12:47:16,835 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-801.
+2025-03-13 12:47:17,854 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-800.

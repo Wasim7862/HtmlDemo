@@ -1,0 +1,13 @@
+2024-09-05 09:52:43,294 - Main - INFO - Start
+2024-09-05 09:52:44,687 - APIFunctions - INFO - VIN not present in ticket description
+2024-09-05 09:52:44,688 - APIFunctions - INFO - Jira tickets list:
+2024-09-05 09:52:44,688 - APIFunctions - INFO - {'key': 'AUDIIND-578', 'imei': ['355105401842099'], 'vin': 'NA'}
+2024-09-05 09:52:44,689 - Main - INFO - 1 tickets to process
+2024-09-05 09:52:46,481 - APIFunctions - INFO - Cerence Token generated.
+2024-09-05 09:52:46,484 - APIFunctions - INFO - {'key': 'AUDIIND-578', 'imei': ['355105401842099'], 'vin': 'NA'}
+2024-09-05 09:52:46,484 - APIFunctions - INFO - 355105401842099
+2024-09-05 09:52:47,840 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-578 are below
+2024-09-05 09:52:47,840 - APIFunctions - INFO - {'imei': '355105401842099', 'state': 'EXPIRED', 'iccid': '8991900992444274444F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Madurai', 'dealerCode': '30405', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-578'}
+2024-09-05 09:52:49,082 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-578.
+2024-09-05 09:52:50,169 - APIFunctions - INFO - Ticket status changes for AUDIIND-578.
+2024-09-05 09:52:51,714 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-578.

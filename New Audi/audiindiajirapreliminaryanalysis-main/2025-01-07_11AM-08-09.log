@@ -1,0 +1,5 @@
+2025-01-07 11:08:09,970 - Main - INFO - Start
+2025-01-07 11:08:10,975 - APIFunctions - INFO - VIN not present in ticket description
+2025-01-07 11:08:10,975 - APIFunctions - INFO - Jira tickets list:
+2025-01-07 11:08:10,975 - APIFunctions - INFO - {'key': 'AUDIIND-746', 'imei': ['355105401599236'], 'vin': 'NA'}
+2025-01-07 11:08:10,977 - Main - INFO - 1 tickets to process

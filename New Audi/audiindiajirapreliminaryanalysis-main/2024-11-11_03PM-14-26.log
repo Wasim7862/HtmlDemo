@@ -1,0 +1,21 @@
+2024-11-11 15:14:26,767 - Main - INFO - Start
+2024-11-11 15:14:28,236 - APIFunctions - INFO - VIN not present in ticket description
+2024-11-11 15:14:28,236 - APIFunctions - INFO - Jira tickets list:
+2024-11-11 15:14:28,237 - APIFunctions - INFO - {'key': 'AUDIIND-655', 'imei': ['355105401853625'], 'vin': 'NA'}
+2024-11-11 15:14:28,237 - APIFunctions - INFO - {'key': 'AUDIIND-654', 'imei': ['355105400943674'], 'vin': 'WAUZMN4M4PY000260'}
+2024-11-11 15:14:28,239 - Main - INFO - 2 tickets to process
+2024-11-11 15:14:29,427 - APIFunctions - INFO - Cerence Token generated.
+2024-11-11 15:14:29,430 - APIFunctions - INFO - {'key': 'AUDIIND-655', 'imei': ['355105401853625'], 'vin': 'NA'}
+2024-11-11 15:14:29,430 - APIFunctions - INFO - 355105401853625
+2024-11-11 15:14:31,497 - APIFunctions - INFO - Last seen received for 355105401853625
+2024-11-11 15:14:32,572 - APIFunctions - INFO - Device status received for 355105401853625
+2024-11-11 15:14:33,585 - APIFunctions - INFO - User details received for 355105401853625
+2024-11-11 15:14:33,588 - APIFunctions - INFO - {'key': 'AUDIIND-654', 'imei': ['355105400943674'], 'vin': 'WAUZMN4M4PY000260'}
+2024-11-11 15:14:33,588 - APIFunctions - INFO - 355105400943674
+2024-11-11 15:14:34,592 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-655 are below
+2024-11-11 15:14:34,592 - APIFunctions - INFO - {'imei': '355105401853625', 'state': 'USER_MAPPED', 'iccid': '8991900992444283973F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZMN4M7PY000270', 'carId': 'a08dd16f-c20e-450b-8946-e9b4f8dcbe56', 'dealerName': 'Audi Mumbai West', 'dealerCode': '31102', 'lastSeen': datetime.datetime(2024, 11, 11, 14, 19, 54, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'RAHUL', 'email': 'rahulkhemani@hotmail.com', 'phone': '+919820231927', 'jiraTicket': 'AUDIIND-655'}
+2024-11-11 15:14:35,724 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-655.
+2024-11-11 15:14:35,727 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-654 are below
+2024-11-11 15:14:35,727 - APIFunctions - INFO - {'imei': '355105400943674', 'state': 'VIN_MAPPED', 'iccid': '8991900991378902467F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZMN4M4PY000260', 'carId': '9886ba07-14b2-4360-8989-502d5177272b', 'dealerName': 'Audi Chandigarh', 'dealerCode': '30207', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-654'}
+2024-11-11 15:14:36,765 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-654.
+2024-11-11 15:14:38,447 - APIFunctions - INFO - Ticket status changes for AUDIIND-655.

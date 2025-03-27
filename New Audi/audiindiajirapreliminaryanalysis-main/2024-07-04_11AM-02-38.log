@@ -1,0 +1,13 @@
+2024-07-04 11:02:38,187 - Main - INFO - Start
+2024-07-04 11:02:39,327 - APIFunctions - INFO - VIN not present in ticket description
+2024-07-04 11:02:39,328 - APIFunctions - INFO - Jira tickets list:
+2024-07-04 11:02:39,328 - APIFunctions - INFO - {'key': 'AUDIIND-434', 'imei': ['355105401783954'], 'vin': 'NA'}
+2024-07-04 11:02:39,330 - Main - INFO - 1 tickets to process
+2024-07-04 11:02:40,560 - APIFunctions - INFO - Cerence Token generated.
+2024-07-04 11:02:40,561 - APIFunctions - INFO - {'key': 'AUDIIND-434', 'imei': ['355105401783954'], 'vin': 'NA'}
+2024-07-04 11:02:40,562 - APIFunctions - INFO - 355105401783954
+2024-07-04 11:02:41,627 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-434 are below
+2024-07-04 11:02:41,627 - APIFunctions - INFO - {'imei': '355105401783954', 'state': 'VIN_MAPPED', 'iccid': '8991900992443381091F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZDRF48RY700550', 'carId': 'a8e56860-25a6-466f-9070-6e9266ec1df2', 'dealerName': 'Audi Service Pune', 'dealerCode': '31802', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-434'}
+2024-07-04 11:02:42,376 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-434.
+2024-07-04 11:02:43,279 - APIFunctions - INFO - Ticket status changes for AUDIIND-434.
+2024-07-04 11:02:44,243 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-434.

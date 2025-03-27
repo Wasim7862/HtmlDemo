@@ -1,0 +1,7 @@
+2024-11-12 12:51:37,173 - Main - INFO - Start
+2024-11-12 12:51:38,775 - APIFunctions - INFO - VIN not present in ticket description
+2024-11-12 12:51:38,775 - APIFunctions - INFO - Jira tickets list:
+2024-11-12 12:51:38,775 - APIFunctions - INFO - {'key': 'AUDIIND-656', 'imei': [], 'vin': 'NA'}
+2024-11-12 12:51:38,777 - Main - INFO - 1 tickets to process
+2024-11-12 12:51:40,359 - APIFunctions - INFO - Cerence Token generated.
+2024-11-12 12:51:40,360 - APIFunctions - INFO - {'key': 'AUDIIND-656', 'imei': [], 'vin': 'NA'}

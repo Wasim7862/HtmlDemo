@@ -1,0 +1,24 @@
+2024-10-08 13:16:15,899 - Main - INFO - Start
+2024-10-08 13:16:18,093 - APIFunctions - INFO - VIN not present in ticket description
+2024-10-08 13:16:18,093 - APIFunctions - INFO - Jira tickets list:
+2024-10-08 13:16:18,094 - APIFunctions - INFO - {'key': 'AUDIIND-615', 'imei': ['355105401579709'], 'vin': 'WAUZJPF36RY700034'}
+2024-10-08 13:16:18,094 - APIFunctions - INFO - {'key': 'AUDIIND-614', 'imei': ['862047040221192'], 'vin': 'NA'}
+2024-10-08 13:16:18,096 - Main - INFO - 2 tickets to process
+2024-10-08 13:16:19,854 - APIFunctions - INFO - Cerence Token generated.
+2024-10-08 13:16:19,858 - APIFunctions - INFO - {'key': 'AUDIIND-615', 'imei': ['355105401579709'], 'vin': 'WAUZJPF36RY700034'}
+2024-10-08 13:16:19,859 - APIFunctions - INFO - 355105401579709
+2024-10-08 13:16:21,827 - APIFunctions - INFO - Last seen received for 355105401579709
+2024-10-08 13:16:22,954 - APIFunctions - INFO - Device status received for 355105401579709
+2024-10-08 13:16:24,075 - APIFunctions - INFO - User details received for 355105401579709
+2024-10-08 13:16:24,078 - APIFunctions - INFO - {'key': 'AUDIIND-614', 'imei': ['862047040221192'], 'vin': 'NA'}
+2024-10-08 13:16:24,079 - APIFunctions - INFO - 862047040221192
+2024-10-08 13:16:25,109 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-615 are below
+2024-10-08 13:16:25,109 - APIFunctions - INFO - {'imei': '355105401579709', 'state': 'USER_MAPPED', 'iccid': '8991900992443896478F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZJPF36RY700034', 'carId': 'e1705bca-68c8-4b0f-8bb2-68ee4a2dba5a', 'dealerName': 'Audi Ahmedabad', 'dealerCode': '30111', 'lastSeen': datetime.datetime(2024, 10, 8, 10, 38, 11, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Nixynova Motoren', 'email': 'deepak.mistry@audisurat.com', 'phone': '+919662515073', 'jiraTicket': 'AUDIIND-615'}
+2024-10-08 13:16:26,718 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-615.
+2024-10-08 13:16:26,722 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-614 are below
+2024-10-08 13:16:26,722 - APIFunctions - INFO - {'imei': '862047040221192', 'state': 'VIN_MAPPED', 'iccid': '8991900991251209071F', 'deviceType': 'EV', 'firmware': '1.0.0.5', 'vin': 'WAUZBMGE3MB028652', 'carId': '085efcd8-905c-44c8-846b-7bdd0d882142', 'dealerName': 'QA Dealer', 'dealerCode': '12345', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-614'}
+2024-10-08 13:16:27,703 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-614.
+2024-10-08 13:16:29,429 - APIFunctions - INFO - Ticket status changes for AUDIIND-615.
+2024-10-08 13:16:30,492 - APIFunctions - INFO - Ticket status changes for AUDIIND-614.
+2024-10-08 13:16:31,353 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-615.
+2024-10-08 13:16:32,298 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-614.

@@ -1,0 +1,18 @@
+2024-11-21 10:40:49,299 - Main - INFO - Start
+2024-11-21 10:40:53,823 - APIFunctions - INFO - VIN not present in ticket description
+2024-11-21 10:40:53,823 - APIFunctions - INFO - Jira tickets list:
+2024-11-21 10:40:53,824 - APIFunctions - INFO - {'key': 'AUDIIND-666', 'imei': ['355105401599343'], 'vin': 'NA'}
+2024-11-21 10:40:53,824 - APIFunctions - INFO - {'key': 'AUDIIND-665', 'imei': [], 'vin': 'WAUZHLGA9LA078417'}
+2024-11-21 10:40:53,827 - Main - INFO - 2 tickets to process
+2024-11-21 10:40:55,008 - APIFunctions - INFO - Cerence Token generated.
+2024-11-21 10:40:55,010 - APIFunctions - INFO - {'key': 'AUDIIND-666', 'imei': ['355105401599343'], 'vin': 'NA'}
+2024-11-21 10:40:55,011 - APIFunctions - INFO - 355105401599343
+2024-11-21 10:40:57,225 - APIFunctions - INFO - Last seen received for 355105401599343
+2024-11-21 10:40:58,302 - APIFunctions - INFO - Device status received for 355105401599343
+2024-11-21 10:40:59,557 - APIFunctions - INFO - User details received for 355105401599343
+2024-11-21 10:40:59,560 - APIFunctions - INFO - {'key': 'AUDIIND-665', 'imei': [], 'vin': 'WAUZHLGA9LA078417'}
+2024-11-21 10:40:59,560 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-666 are below
+2024-11-21 10:40:59,560 - APIFunctions - INFO - {'imei': '355105401599343', 'state': 'USER_MAPPED', 'iccid': '8991900991378958667F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZFRF3XRY701653', 'carId': '60f5e7ab-f075-4bd5-8aa3-f5a7816c19ab', 'dealerName': 'Audi Service Mumbai South', 'dealerCode': '32002', 'lastSeen': datetime.datetime(2024, 11, 21, 7, 12, 38, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'notReporting', 'firstName': 'Kulin', 'email': 'kulinasher@gmail.com', 'phone': '+919920559248', 'jiraTicket': 'AUDIIND-666'}
+2024-11-21 10:41:01,790 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-666.
+2024-11-21 10:41:03,336 - APIFunctions - INFO - Ticket status changes for AUDIIND-666.
+2024-11-21 10:41:04,465 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-666.

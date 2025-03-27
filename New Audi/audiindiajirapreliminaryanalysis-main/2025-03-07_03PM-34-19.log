@@ -1,0 +1,13 @@
+2025-03-07 15:34:19,721 - Main - INFO - Start
+2025-03-07 15:34:24,169 - APIFunctions - INFO - VIN not present in ticket description
+2025-03-07 15:34:24,170 - APIFunctions - INFO - Jira tickets list:
+2025-03-07 15:34:24,170 - APIFunctions - INFO - {'key': 'AUDIIND-799', 'imei': ['355105401041437'], 'vin': 'NA'}
+2025-03-07 15:34:24,173 - Main - INFO - 1 tickets to process
+2025-03-07 15:34:24,909 - APIFunctions - INFO - Cerence Token generated.
+2025-03-07 15:34:24,912 - APIFunctions - INFO - {'key': 'AUDIIND-799', 'imei': ['355105401041437'], 'vin': 'NA'}
+2025-03-07 15:34:24,913 - APIFunctions - INFO - 355105401041437
+2025-03-07 15:34:25,128 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-799 are below
+2025-03-07 15:34:25,128 - APIFunctions - INFO - {'imei': '355105401041437', 'state': 'ACTIVATED', 'iccid': '8991900992443615775F', 'deviceType': 'EV', 'firmware': 'B003', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Service Bengaluru', 'dealerCode': '30203', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-799'}
+2025-03-07 15:34:26,275 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-799.
+2025-03-07 15:34:28,040 - APIFunctions - INFO - Ticket status changes for AUDIIND-799.
+2025-03-07 15:34:29,497 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-799.

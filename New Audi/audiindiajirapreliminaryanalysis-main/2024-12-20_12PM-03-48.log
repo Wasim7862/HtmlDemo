@@ -1,0 +1,27 @@
+2024-12-20 12:03:48,930 - Main - INFO - Start
+2024-12-20 12:03:51,152 - APIFunctions - INFO - VIN not present in ticket description
+2024-12-20 12:03:51,153 - APIFunctions - INFO - Jira tickets list:
+2024-12-20 12:03:51,153 - APIFunctions - INFO - {'key': 'AUDIIND-709', 'imei': ['355105401640279'], 'vin': 'NA'}
+2024-12-20 12:03:51,154 - APIFunctions - INFO - {'key': 'AUDIIND-708', 'imei': ['355105400938468'], 'vin': 'WAUZKNFY3PY700003'}
+2024-12-20 12:03:51,159 - Main - INFO - 2 tickets to process
+2024-12-20 12:04:47,001 - APIFunctions - INFO - Cerence Token generated.
+2024-12-20 12:04:47,015 - APIFunctions - INFO - {'key': 'AUDIIND-709', 'imei': ['355105401640279'], 'vin': 'NA'}
+2024-12-20 12:04:47,015 - APIFunctions - INFO - 355105401640279
+2024-12-20 12:04:48,354 - APIFunctions - INFO - Last seen received for 355105401640279
+2024-12-20 12:04:48,610 - APIFunctions - INFO - Device status received for 355105401640279
+2024-12-20 12:04:48,845 - APIFunctions - INFO - User details received for 355105401640279
+2024-12-20 12:04:48,848 - APIFunctions - INFO - {'key': 'AUDIIND-708', 'imei': ['355105400938468'], 'vin': 'WAUZKNFY3PY700003'}
+2024-12-20 12:04:48,848 - APIFunctions - INFO - 355105400938468
+2024-12-20 12:04:49,197 - APIFunctions - INFO - Last seen received for 355105400938468
+2024-12-20 12:04:49,450 - APIFunctions - INFO - Device status received for 355105400938468
+2024-12-20 12:04:49,684 - APIFunctions - INFO - User details received for 355105400938468
+2024-12-20 12:04:49,687 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-709 are below
+2024-12-20 12:04:49,688 - APIFunctions - INFO - {'imei': '355105401640279', 'state': 'USER_MAPPED', 'iccid': '8991900991378954948F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZFRF25RY000672', 'carId': '1a184421-c697-4a21-86c5-90a920e16ba4', 'dealerName': 'Audi Service Pune', 'dealerCode': '31802', 'lastSeen': datetime.datetime(2024, 12, 20, 12, 4, 42, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'connected', 'firstName': 'Leena', 'email': 'leena.nanaware14@gmail.com', 'phone': '+917263084766', 'jiraTicket': 'AUDIIND-709'}
+2024-12-20 12:04:51,061 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-709.
+2024-12-20 12:04:51,065 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-708 are below
+2024-12-20 12:04:51,065 - APIFunctions - INFO - {'imei': '355105400938468', 'state': 'USER_MAPPED', 'iccid': '8991900991378918067F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZKNFY3PY700003', 'carId': 'fe5091b3-800b-48d2-bf9f-36921030e042', 'dealerName': 'Audi Mumbai West', 'dealerCode': '31102', 'lastSeen': datetime.datetime(2024, 12, 20, 11, 7, 58, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Elesh', 'email': 'dreleshjain123@gmail.com', 'phone': '+919993741000', 'jiraTicket': 'AUDIIND-708'}
+2024-12-20 12:04:52,261 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-708.
+2024-12-20 12:04:53,352 - APIFunctions - INFO - Ticket status changes for AUDIIND-709.
+2024-12-20 12:04:54,562 - APIFunctions - INFO - Ticket status changes for AUDIIND-708.
+2024-12-20 12:04:55,593 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-709.
+2024-12-20 12:04:56,411 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-708.

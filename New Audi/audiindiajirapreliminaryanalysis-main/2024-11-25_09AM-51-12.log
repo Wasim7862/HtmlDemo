@@ -1,0 +1,34 @@
+2024-11-25 09:51:12,605 - Main - INFO - Start
+2024-11-25 09:51:13,968 - APIFunctions - INFO - VIN not present in ticket description
+2024-11-25 09:51:13,969 - APIFunctions - INFO - Jira tickets list:
+2024-11-25 09:51:13,969 - APIFunctions - INFO - {'key': 'AUDIIND-671', 'imei': ['355105400910970'], 'vin': 'NA'}
+2024-11-25 09:51:13,969 - APIFunctions - INFO - {'key': 'AUDIIND-670', 'imei': ['355105400956866'], 'vin': 'WAUZJPF30RY700109'}
+2024-11-25 09:51:13,969 - APIFunctions - INFO - {'key': 'AUDIIND-669', 'imei': ['355105401851157'], 'vin': 'WAUZERF47RY700827'}
+2024-11-25 09:51:13,970 - Main - INFO - 3 tickets to process
+2024-11-25 09:51:15,920 - APIFunctions - INFO - Cerence Token generated.
+2024-11-25 09:51:15,922 - APIFunctions - INFO - {'key': 'AUDIIND-671', 'imei': ['355105400910970'], 'vin': 'NA'}
+2024-11-25 09:51:15,922 - APIFunctions - INFO - 355105400910970
+2024-11-25 09:51:18,478 - APIFunctions - INFO - Last seen received for 355105400910970
+2024-11-25 09:51:19,555 - APIFunctions - INFO - Device status received for 355105400910970
+2024-11-25 09:51:20,773 - APIFunctions - INFO - User details received for 355105400910970
+2024-11-25 09:51:20,775 - APIFunctions - INFO - {'key': 'AUDIIND-670', 'imei': ['355105400956866'], 'vin': 'WAUZJPF30RY700109'}
+2024-11-25 09:51:20,775 - APIFunctions - INFO - 355105400956866
+2024-11-25 09:51:23,115 - APIFunctions - INFO - Last seen received for 355105400956866
+2024-11-25 09:51:24,191 - APIFunctions - INFO - Device status received for 355105400956866
+2024-11-25 09:51:25,416 - APIFunctions - INFO - User details received for 355105400956866
+2024-11-25 09:51:25,418 - APIFunctions - INFO - {'key': 'AUDIIND-669', 'imei': ['355105401851157'], 'vin': 'WAUZERF47RY700827'}
+2024-11-25 09:51:25,418 - APIFunctions - INFO - 355105401851157
+2024-11-25 09:51:27,802 - APIFunctions - INFO - Last seen received for 355105401851157
+2024-11-25 09:51:28,889 - APIFunctions - INFO - Device status received for 355105401851157
+2024-11-25 09:51:29,949 - APIFunctions - INFO - User details received for 355105401851157
+2024-11-25 09:51:29,951 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-671 are below
+2024-11-25 09:51:29,951 - APIFunctions - INFO - {'imei': '355105400910970', 'state': 'USER_MAPPED', 'iccid': '8991900991298712939F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZGC4H0DN006682', 'carId': '754285b3-442c-4bb6-b314-3ce578ddb32e', 'dealerName': 'Audi Service Mumbai South', 'dealerCode': '32002', 'lastSeen': datetime.datetime(2024, 11, 24, 13, 41, 7, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'notReporting', 'firstName': 'InderKumar', 'email': 'ankit@lkgroupindia.com', 'phone': '+919821099871', 'jiraTicket': 'AUDIIND-671'}
+2024-11-25 09:51:31,460 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-671.
+2024-11-25 09:51:31,461 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-670 are below
+2024-11-25 09:51:31,461 - APIFunctions - INFO - {'imei': '355105400956866', 'state': 'USER_MAPPED', 'iccid': '8991900991378906146F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZJPF30RY700109', 'carId': '0b3591df-82dd-438d-a338-fcfda8a2b1cb', 'dealerName': 'Audi Service Mumbai South', 'dealerCode': '32002', 'lastSeen': datetime.datetime(2024, 11, 25, 9, 51, 16, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'connected', 'firstName': 'Navneet', 'email': 'navneetkgoyal@outlook.com', 'phone': '+919930136311', 'jiraTicket': 'AUDIIND-670'}
+2024-11-25 09:51:32,678 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-670.
+2024-11-25 09:51:32,680 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-669 are below
+2024-11-25 09:51:32,680 - APIFunctions - INFO - {'imei': '355105401851157', 'state': 'USER_MAPPED', 'iccid': '8991900992444290176F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZERF47RY700827', 'carId': 'ee4298ed-485c-4aa9-b2ad-7964951d46ce', 'dealerName': 'Audi Service Delhi South', 'dealerCode': '30308', 'lastSeen': datetime.datetime(2024, 11, 25, 6, 56, 48, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Rupesh', 'email': 'er.rupeshsingh@gmail.com', 'phone': '+919971505556', 'jiraTicket': 'AUDIIND-669'}
+2024-11-25 09:51:33,691 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-669.
+2024-11-25 09:51:35,020 - APIFunctions - INFO - Ticket status changes for AUDIIND-671.
+2024-11-25 09:51:36,292 - APIFunctions - INFO - Ticket status changes for AUDIIND-670.

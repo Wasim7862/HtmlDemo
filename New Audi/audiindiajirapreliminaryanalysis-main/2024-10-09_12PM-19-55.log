@@ -1,0 +1,12 @@
+2024-10-09 12:19:55,800 - Main - INFO - Start
+2024-10-09 12:19:57,568 - APIFunctions - INFO - Jira tickets list:
+2024-10-09 12:19:57,569 - APIFunctions - INFO - {'key': 'AUDIIND-617', 'imei': ['355105401865751'], 'vin': 'WAUZERF26RY000571'}
+2024-10-09 12:19:57,572 - Main - INFO - 1 tickets to process
+2024-10-09 12:19:59,057 - APIFunctions - INFO - Cerence Token generated.
+2024-10-09 12:19:59,061 - APIFunctions - INFO - {'key': 'AUDIIND-617', 'imei': ['355105401865751'], 'vin': 'WAUZERF26RY000571'}
+2024-10-09 12:19:59,061 - APIFunctions - INFO - 355105401865751
+2024-10-09 12:20:00,182 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-617 are below
+2024-10-09 12:20:00,192 - APIFunctions - INFO - {'imei': '355105401865751', 'state': 'VIN_MAPPED', 'iccid': '8991900992444299573F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZHRF3XRY702098', 'carId': 'e13a198d-b880-42db-b85f-1c3db66e521a', 'dealerName': 'Audi Service Delhi South', 'dealerCode': '30308', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-617'}
+2024-10-09 12:20:01,873 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-617.
+2024-10-09 12:20:03,001 - APIFunctions - INFO - Ticket status changes for AUDIIND-617.
+2024-10-09 12:20:04,820 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-617.

@@ -1,0 +1,13 @@
+2024-12-30 13:57:35,890 - Main - INFO - Start
+2024-12-30 13:57:37,275 - APIFunctions - INFO - VIN not present in ticket description
+2024-12-30 13:57:37,275 - APIFunctions - INFO - Jira tickets list:
+2024-12-30 13:57:37,275 - APIFunctions - INFO - {'key': 'AUDIIND-733', 'imei': ['355105401639073'], 'vin': 'NA'}
+2024-12-30 13:57:37,277 - Main - INFO - 1 tickets to process
+2024-12-30 13:57:37,662 - APIFunctions - INFO - Cerence Token generated.
+2024-12-30 13:57:37,664 - APIFunctions - INFO - {'key': 'AUDIIND-733', 'imei': ['355105401639073'], 'vin': 'NA'}
+2024-12-30 13:57:37,664 - APIFunctions - INFO - 355105401639073
+2024-12-30 13:57:37,745 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-733 are below
+2024-12-30 13:57:37,745 - APIFunctions - INFO - {'imei': '355105401639073', 'state': 'VIN_MAPPED', 'iccid': '8991900991378952595F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZGRF42RY701104', 'carId': '7cc6f35a-e2a1-478d-b5d6-94107c01fc9c', 'dealerName': 'Audi Service Mumbai South', 'dealerCode': '32002', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-733'}
+2024-12-30 13:57:38,775 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-733.
+2024-12-30 13:57:39,806 - APIFunctions - INFO - Ticket status changes for AUDIIND-733.
+2024-12-30 13:57:40,578 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-733.

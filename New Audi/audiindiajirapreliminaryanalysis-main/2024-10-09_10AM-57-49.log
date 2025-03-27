@@ -1,0 +1,12 @@
+2024-10-09 10:57:49,246 - Main - INFO - Start
+2024-10-09 10:57:51,523 - APIFunctions - INFO - Jira tickets list:
+2024-10-09 10:57:51,524 - APIFunctions - INFO - {'key': 'AUDIIND-616', 'imei': ['355105401858525'], 'vin': 'WAUZGRF36RY701694'}
+2024-10-09 10:57:51,526 - Main - INFO - 1 tickets to process
+2024-10-09 10:57:53,192 - APIFunctions - INFO - Cerence Token generated.
+2024-10-09 10:57:53,194 - APIFunctions - INFO - {'key': 'AUDIIND-616', 'imei': ['355105401858525'], 'vin': 'WAUZGRF36RY701694'}
+2024-10-09 10:57:53,194 - APIFunctions - INFO - 355105401858525
+2024-10-09 10:57:54,348 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-616 are below
+2024-10-09 10:57:54,349 - APIFunctions - INFO - {'imei': '355105401858525', 'state': 'EXPIRED', 'iccid': '8991900992444272216F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Gurugram', 'dealerCode': '30408', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-616'}
+2024-10-09 10:57:55,369 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-616.
+2024-10-09 10:57:57,130 - APIFunctions - INFO - Ticket status changes for AUDIIND-616.
+2024-10-09 10:57:57,940 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-616.

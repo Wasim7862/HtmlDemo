@@ -1,0 +1,12 @@
+2024-11-13 11:04:45,244 - Main - INFO - Start
+2024-11-13 11:04:46,284 - APIFunctions - INFO - Jira tickets list:
+2024-11-13 11:04:46,285 - APIFunctions - INFO - {'key': 'AUDIIND-657', 'imei': ['355105401849102'], 'vin': 'WAUZERF38RY701363'}
+2024-11-13 11:04:46,289 - Main - INFO - 1 tickets to process
+2024-11-13 11:04:47,424 - APIFunctions - INFO - Cerence Token generated.
+2024-11-13 11:04:47,429 - APIFunctions - INFO - {'key': 'AUDIIND-657', 'imei': ['355105401849102'], 'vin': 'WAUZERF38RY701363'}
+2024-11-13 11:04:47,429 - APIFunctions - INFO - 355105401849102
+2024-11-13 11:04:48,281 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-657 are below
+2024-11-13 11:04:48,292 - APIFunctions - INFO - {'imei': '355105401849102', 'state': 'VIN_MAPPED', 'iccid': '8991900992444289103F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZERF38RY701363', 'carId': 'e2f0e29f-ba01-4d74-8895-64193fdca557', 'dealerName': 'Audi Service Mumbai South', 'dealerCode': '32002', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-657'}
+2024-11-13 11:04:49,525 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-657.
+2024-11-13 11:04:51,726 - APIFunctions - INFO - Ticket status changes for AUDIIND-657.
+2024-11-13 11:04:52,507 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-657.

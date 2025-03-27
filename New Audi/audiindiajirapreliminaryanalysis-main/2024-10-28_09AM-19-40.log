@@ -1,0 +1,14 @@
+2024-10-28 09:19:40,619 - Main - INFO - Start
+2024-10-28 09:19:43,419 - APIFunctions - INFO - VIN not present in ticket description
+2024-10-28 09:19:43,419 - APIFunctions - INFO - VIN not present in ticket description
+2024-10-28 09:19:43,420 - APIFunctions - INFO - VIN not present in ticket description
+2024-10-28 09:19:43,420 - APIFunctions - INFO - VIN not present in ticket description
+2024-10-28 09:19:43,420 - APIFunctions - INFO - Jira tickets list:
+2024-10-28 09:19:43,420 - APIFunctions - INFO - {'key': 'AUDIIND-636', 'imei': ['355105400983563'], 'vin': 'NA'}
+2024-10-28 09:19:43,420 - APIFunctions - INFO - {'key': 'AUDIIND-635', 'imei': ['355105401849102'], 'vin': 'NA'}
+2024-10-28 09:19:43,421 - APIFunctions - INFO - {'key': 'AUDIIND-634', 'imei': ['355105400946024'], 'vin': 'NA'}
+2024-10-28 09:19:43,421 - APIFunctions - INFO - {'key': 'AUDIIND-633', 'imei': ['355105400954473'], 'vin': 'NA'}
+2024-10-28 09:19:43,424 - Main - INFO - 4 tickets to process
+2024-10-28 09:19:46,189 - APIFunctions - INFO - Cerence Token generated.
+2024-10-28 09:19:46,192 - APIFunctions - INFO - {'key': 'AUDIIND-636', 'imei': ['355105400983563'], 'vin': 'NA'}
+2024-10-28 09:19:46,192 - APIFunctions - INFO - 355105400983563

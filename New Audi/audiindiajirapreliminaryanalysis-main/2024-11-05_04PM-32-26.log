@@ -1,0 +1,25 @@
+2024-11-05 16:32:26,701 - Main - INFO - Start
+2024-11-05 16:32:28,484 - APIFunctions - INFO - VIN not present in ticket description
+2024-11-05 16:32:28,484 - APIFunctions - INFO - VIN not present in ticket description
+2024-11-05 16:32:28,484 - APIFunctions - INFO - Jira tickets list:
+2024-11-05 16:32:28,484 - APIFunctions - INFO - {'key': 'AUDIIND-646', 'imei': ['355105401849102'], 'vin': 'NA'}
+2024-11-05 16:32:28,485 - APIFunctions - INFO - {'key': 'AUDIIND-645', 'imei': ['355105401645401'], 'vin': 'NA'}
+2024-11-05 16:32:28,487 - Main - INFO - 2 tickets to process
+2024-11-05 16:32:29,657 - APIFunctions - INFO - Cerence Token generated.
+2024-11-05 16:32:29,660 - APIFunctions - INFO - {'key': 'AUDIIND-646', 'imei': ['355105401849102'], 'vin': 'NA'}
+2024-11-05 16:32:29,660 - APIFunctions - INFO - 355105401849102
+2024-11-05 16:32:30,689 - APIFunctions - INFO - {'key': 'AUDIIND-645', 'imei': ['355105401645401'], 'vin': 'NA'}
+2024-11-05 16:32:30,690 - APIFunctions - INFO - 355105401645401
+2024-11-05 16:32:32,862 - APIFunctions - INFO - Last seen received for 355105401645401
+2024-11-05 16:32:33,857 - APIFunctions - INFO - Device status received for 355105401645401
+2024-11-05 16:32:34,962 - APIFunctions - INFO - User details received for 355105401645401
+2024-11-05 16:32:34,965 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-646 are below
+2024-11-05 16:32:34,965 - APIFunctions - INFO - {'imei': '355105401849102', 'state': 'VIN_MAPPED', 'iccid': '8991900992444289103F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZERF38RY701363', 'carId': 'e2f0e29f-ba01-4d74-8895-64193fdca557', 'dealerName': 'Audi Service Mumbai South', 'dealerCode': '32002', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-646'}
+2024-11-05 16:32:36,035 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-646.
+2024-11-05 16:32:36,038 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-645 are below
+2024-11-05 16:32:36,038 - APIFunctions - INFO - {'imei': '355105401645401', 'state': 'USER_MAPPED', 'iccid': '8991900992443920609F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZBRF45RY700320', 'carId': 'e6dad76d-c057-4426-b0b7-fda1820d33f8', 'dealerName': 'Audi Service Delhi South', 'dealerCode': '30308', 'lastSeen': datetime.datetime(2024, 11, 5, 14, 33, 55, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Sunil', 'email': 'pankajthakran917@gmail.com', 'phone': '+919818555341', 'jiraTicket': 'AUDIIND-645'}
+2024-11-05 16:32:37,116 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-645.
+2024-11-05 16:32:38,118 - APIFunctions - INFO - Ticket status changes for AUDIIND-646.
+2024-11-05 16:32:39,111 - APIFunctions - INFO - Ticket status changes for AUDIIND-645.
+2024-11-05 16:32:40,284 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-646.
+2024-11-05 16:32:41,281 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-645.

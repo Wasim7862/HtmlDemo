@@ -1,0 +1,12 @@
+2024-10-28 15:43:38,568 - Main - INFO - Start
+2024-10-28 15:43:40,482 - APIFunctions - INFO - Jira tickets list:
+2024-10-28 15:43:40,483 - APIFunctions - INFO - {'key': 'AUDIIND-638', 'imei': ['355105401851421'], 'vin': 'WAUZERF38RY701363'}
+2024-10-28 15:43:40,487 - Main - INFO - 1 tickets to process
+2024-10-28 15:43:42,753 - APIFunctions - INFO - Cerence Token generated.
+2024-10-28 15:43:42,756 - APIFunctions - INFO - {'key': 'AUDIIND-638', 'imei': ['355105401851421'], 'vin': 'WAUZERF38RY701363'}
+2024-10-28 15:43:42,758 - APIFunctions - INFO - 355105401851421
+2024-10-28 15:43:43,675 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-638 are below
+2024-10-28 15:43:43,676 - APIFunctions - INFO - {'imei': '355105401851421', 'state': 'ACTIVATED', 'iccid': '8991900992444281662F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Service Chennai', 'dealerCode': '30705', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-638'}
+2024-10-28 15:43:44,603 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-638.
+2024-10-28 15:43:46,035 - APIFunctions - INFO - Ticket status changes for AUDIIND-638.
+2024-10-28 15:43:47,085 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-638.

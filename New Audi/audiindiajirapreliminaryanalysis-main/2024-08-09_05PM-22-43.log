@@ -1,0 +1,13 @@
+2024-08-09 17:22:43,448 - Main - INFO - Start
+2024-08-09 17:22:45,867 - APIFunctions - INFO - VIN not present in ticket description
+2024-08-09 17:22:45,867 - APIFunctions - INFO - Jira tickets list:
+2024-08-09 17:22:45,867 - APIFunctions - INFO - {'key': 'AUDIIND-522', 'imei': ['355105401627631'], 'vin': 'NA'}
+2024-08-09 17:22:45,867 - Main - INFO - 1 tickets to process
+2024-08-09 17:22:47,023 - APIFunctions - INFO - Cerence Token generated.
+2024-08-09 17:22:47,024 - APIFunctions - INFO - {'key': 'AUDIIND-522', 'imei': ['355105401627631'], 'vin': 'NA'}
+2024-08-09 17:22:47,024 - APIFunctions - INFO - 355105401627631
+2024-08-09 17:22:48,016 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-522 are below
+2024-08-09 17:22:48,016 - APIFunctions - INFO - {'imei': '355105401627631', 'state': 'EXPIRED', 'iccid': '8991900991378966736F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Service Kochi', 'dealerCode': '30816', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-522'}
+2024-08-09 17:22:49,011 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-522.
+2024-08-09 17:22:49,954 - APIFunctions - INFO - Ticket status changes for AUDIIND-522.
+2024-08-09 17:22:50,798 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-522.

@@ -1,0 +1,25 @@
+2025-01-13 09:29:35,415 - Main - INFO - Start
+2025-01-13 09:29:37,154 - APIFunctions - INFO - VIN not present in ticket description
+2025-01-13 09:29:37,154 - APIFunctions - INFO - VIN not present in ticket description
+2025-01-13 09:29:37,154 - APIFunctions - INFO - Jira tickets list:
+2025-01-13 09:29:37,155 - APIFunctions - INFO - {'key': 'AUDIIND-755', 'imei': ['355105400958003'], 'vin': 'NA'}
+2025-01-13 09:29:37,155 - APIFunctions - INFO - {'key': 'AUDIIND-754', 'imei': ['355105401994437'], 'vin': 'NA'}
+2025-01-13 09:29:37,157 - Main - INFO - 2 tickets to process
+2025-01-13 09:29:37,916 - APIFunctions - INFO - Cerence Token generated.
+2025-01-13 09:29:37,919 - APIFunctions - INFO - {'key': 'AUDIIND-755', 'imei': ['355105400958003'], 'vin': 'NA'}
+2025-01-13 09:29:37,919 - APIFunctions - INFO - 355105400958003
+2025-01-13 09:29:38,242 - APIFunctions - INFO - Last seen received for 355105400958003
+2025-01-13 09:29:38,476 - APIFunctions - INFO - Device status received for 355105400958003
+2025-01-13 09:29:38,708 - APIFunctions - INFO - User details received for 355105400958003
+2025-01-13 09:29:38,711 - APIFunctions - INFO - {'key': 'AUDIIND-754', 'imei': ['355105401994437'], 'vin': 'NA'}
+2025-01-13 09:29:38,711 - APIFunctions - INFO - 355105401994437
+2025-01-13 09:29:38,872 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-755 are below
+2025-01-13 09:29:38,872 - APIFunctions - INFO - {'imei': '355105400958003', 'state': 'USER_MAPPED', 'iccid': '8991900991298665871F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZKNF36P1054727', 'carId': '0e01f959-ea5f-44e3-8d7d-f4746891651a', 'dealerName': 'Audi Service Pune', 'dealerCode': '31802', 'lastSeen': datetime.datetime(2025, 1, 13, 9, 22, 39, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Lenze', 'email': 'anand.kolhatkar@lenze.com', 'phone': '+919923102797', 'jiraTicket': 'AUDIIND-755'}
+2025-01-13 09:29:39,826 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-755.
+2025-01-13 09:29:39,832 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-754 are below
+2025-01-13 09:29:39,832 - APIFunctions - INFO - {'imei': '355105401994437', 'state': 'VIN_MAPPED', 'iccid': '8991900992444322136F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZHRF23RY001068', 'carId': 'ae68dcce-d937-4593-a93c-6ba916485c98', 'dealerName': 'Audi Service Mumbai South', 'dealerCode': '32002', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-754'}
+2025-01-13 09:29:45,018 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-754.
+2025-01-13 09:29:46,663 - APIFunctions - INFO - Ticket status changes for AUDIIND-755.
+2025-01-13 09:29:48,406 - APIFunctions - INFO - Ticket status changes for AUDIIND-754.
+2025-01-13 09:29:49,460 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-755.
+2025-01-13 09:29:52,545 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-754.

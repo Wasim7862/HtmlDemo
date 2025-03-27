@@ -1,0 +1,26 @@
+2024-12-02 11:03:38,340 - Main - INFO - Start
+2024-12-02 11:03:39,931 - APIFunctions - INFO - Jira tickets list:
+2024-12-02 11:03:39,931 - APIFunctions - INFO - {'key': 'AUDIIND-678', 'imei': ['355105401601164'], 'vin': 'WAUZBNF43NY700528'}
+2024-12-02 11:03:39,931 - APIFunctions - INFO - {'key': 'AUDIIND-677', 'imei': ['355105400997951'], 'vin': 'WAUZDPF33PY700125'}
+2024-12-02 11:03:39,931 - Main - INFO - 2 tickets to process
+2024-12-02 11:03:41,460 - APIFunctions - INFO - Cerence Token generated.
+2024-12-02 11:03:41,460 - APIFunctions - INFO - {'key': 'AUDIIND-678', 'imei': ['355105401601164'], 'vin': 'WAUZBNF43NY700528'}
+2024-12-02 11:03:41,484 - APIFunctions - INFO - 355105401601164
+2024-12-02 11:03:43,766 - APIFunctions - INFO - Last seen received for 355105401601164
+2024-12-02 11:03:44,916 - APIFunctions - INFO - Device status received for 355105401601164
+2024-12-02 11:03:46,115 - APIFunctions - INFO - User details received for 355105401601164
+2024-12-02 11:03:46,115 - APIFunctions - INFO - {'key': 'AUDIIND-677', 'imei': ['355105400997951'], 'vin': 'WAUZDPF33PY700125'}
+2024-12-02 11:03:46,115 - APIFunctions - INFO - 355105400997951
+2024-12-02 11:03:48,681 - APIFunctions - INFO - Last seen received for 355105400997951
+2024-12-02 11:03:49,831 - APIFunctions - INFO - Device status received for 355105400997951
+2024-12-02 11:03:50,981 - APIFunctions - INFO - User details received for 355105400997951
+2024-12-02 11:03:50,981 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-678 are below
+2024-12-02 11:03:50,981 - APIFunctions - INFO - {'imei': '355105401601164', 'state': 'USER_MAPPED', 'iccid': '8991900991378963964F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'WAUZBNF43NY700528', 'carId': '117f2e93-24c3-4e6d-b64b-dc1fee82cc1e', 'dealerName': 'Audi Delhi West', 'dealerCode': '30701', 'lastSeen': datetime.datetime(2024, 12, 2, 11, 0, 57, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'sleep', 'firstName': 'Deepak', 'email': 'padhandeepak0004@gmail.com', 'phone': '+919953240001', 'jiraTicket': 'AUDIIND-678'}
+2024-12-02 11:03:52,459 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-678.
+2024-12-02 11:03:52,459 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-677 are below
+2024-12-02 11:03:52,459 - APIFunctions - INFO - {'imei': '355105400997951', 'state': 'USER_MAPPED', 'iccid': '8991900991298707632F', 'deviceType': 'ICE', 'firmware': '1.0.0.6', 'vin': 'WAUZDPF33PY700125', 'carId': '7012e50d-9bf2-486b-978c-11f975d497f0', 'dealerName': 'Audi Delhi West', 'dealerCode': '30701', 'lastSeen': datetime.datetime(2024, 12, 2, 0, 31, 57, tzinfo=datetime.timezone(datetime.timedelta(seconds=19800))), 'status': 'notReporting', 'firstName': 'HARKESH', 'email': 'yadavpooja1516@gmail.com', 'phone': '+919871044180', 'jiraTicket': 'AUDIIND-677'}
+2024-12-02 11:03:53,890 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-677.
+2024-12-02 11:03:54,976 - APIFunctions - INFO - Ticket status changes for AUDIIND-678.
+2024-12-02 11:03:56,110 - APIFunctions - INFO - Ticket status changes for AUDIIND-677.
+2024-12-02 11:03:57,432 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-678.
+2024-12-02 11:03:58,930 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-677.

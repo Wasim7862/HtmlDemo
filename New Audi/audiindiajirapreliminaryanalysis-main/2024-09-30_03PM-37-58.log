@@ -1,0 +1,13 @@
+2024-09-30 15:37:58,242 - Main - INFO - Start
+2024-09-30 15:37:59,761 - APIFunctions - INFO - VIN not present in ticket description
+2024-09-30 15:37:59,762 - APIFunctions - INFO - Jira tickets list:
+2024-09-30 15:37:59,762 - APIFunctions - INFO - {'key': 'AUDIIND-604', 'imei': ['355105401844871'], 'vin': 'NA'}
+2024-09-30 15:37:59,767 - Main - INFO - 1 tickets to process
+2024-09-30 15:38:01,706 - APIFunctions - INFO - Cerence Token generated.
+2024-09-30 15:38:01,711 - APIFunctions - INFO - {'key': 'AUDIIND-604', 'imei': ['355105401844871'], 'vin': 'NA'}
+2024-09-30 15:38:01,711 - APIFunctions - INFO - 355105401844871
+2024-09-30 15:38:02,592 - APIFunctions - INFO - Preliminary analysis details for AUDIIND-604 are below
+2024-09-30 15:38:02,592 - APIFunctions - INFO - {'imei': '355105401844871', 'state': 'ACTIVATED', 'iccid': '8991900992444284401F', 'deviceType': 'ICE', 'firmware': '1.0.0.06', 'vin': 'NA', 'carId': 'NA', 'dealerName': 'Audi Service Mumbai South', 'dealerCode': '32002', 'lastSeen': 'NA', 'status': 'NA', 'firstName': 'NA', 'email': 'NA', 'phone': 'NA', 'jiraTicket': 'AUDIIND-604'}
+2024-09-30 15:38:03,464 - APIFunctions - INFO - Preliminary analysis added in AUDIIND-604.
+2024-09-30 15:38:04,356 - APIFunctions - INFO - Ticket status changes for AUDIIND-604.
+2024-09-30 15:38:05,134 - APIFunctions - INFO - Ticket assignee is changed for AUDIIND-604.
